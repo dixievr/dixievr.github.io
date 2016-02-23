@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456249105616">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456249798182">
   <folder name="css">
     <file name="site_global.css" crc="4189438098"/>
-    <file name="index.css" crc="4012139752" ref="index"/>
+    <file name="index.css" crc="3779898249" ref="index"/>
     <file name="iefonts_index.css" crc="4131284762" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -16,7 +16,6 @@
   </folder>
   <folder name="images">
     <file name="slider.jpg" crc="289418327" ref="index"/>
-    <file name="model-600238_640.jpg" crc="3878957572" ref="index"/>
     <file name="102_4643fb 2-u544-fr.jpg" crc="4057905693" ref="index"/>
     <file name="041-u553-fr.jpg" crc="3965459482" ref="index"/>
     <file name="neuromancer-film-1200x630-c-u549-fr.jpg" crc="496641256" ref="index"/>
@@ -25,6 +24,9 @@
     <file name="neuromancer-film-1200x630-c.jpg" crc="490148382" ref="index"/>
     <file name="102_4643fb 2-u322-fr.jpg" crc="4005067235" ref="index"/>
     <file name="separator.jpg" crc="194132142" ref="index"/>
+    <file name="pavillon01.jpg" crc="368691727" ref="index"/>
+    <file name="screenshot 2015-11-30 at 152319.jpg" crc="3781213147" ref="index"/>
+    <file name="screenshot 2016-01-21 at 113223 copy.jpg" crc="4132444024" ref="index"/>
   </folder>
-  <file name="index.html" crc="3781500756" seo="true" mt="1456244722141" redirect="true"/>
+  <file name="index.html" crc="313207051" seo="true" mt="1456249797213" redirect="true"/>
 </manifest>

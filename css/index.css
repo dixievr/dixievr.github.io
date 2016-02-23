@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #2464E8;
+	color: #0000E1;
+	background-color: #4CAB89;
 }
 
 .html
@@ -749,7 +749,7 @@
 	position: fixed;
 	top: 842px;
 	left: 40px;
-	background: transparent url("../images/model-600238_640.jpg") no-repeat center center;
+	background: transparent url("../images/pavillon01.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -795,7 +795,7 @@
 	position: fixed;
 	top: 1237px;
 	left: 40px;
-	background: transparent url("../images/model-600238_640.jpg") no-repeat center center;
+	background: transparent url("../images/screenshot%202015-11-30%20at%20152319.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1487,7 +1487,7 @@
 	position: fixed;
 	top: 4302px;
 	left: 40px;
-	background: transparent url("../images/model-600238_640.jpg") no-repeat center center;
+	background: transparent url("../images/screenshot%202016-01-21%20at%20113223%20copy.jpg") no-repeat center center;
 	background-size: cover;
 }
 
