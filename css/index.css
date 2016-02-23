@@ -1,0 +1,1560 @@
+.version.index /* version checker */
+{
+	color: #0000EF;
+	background-color: #2464E8;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1020px;
+	min-height: 5000px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 24px;
+	width: 0.01px;
+}
+
+#u362
+{
+	z-index: 148;
+	min-height: 675px;
+	background: #A36CB7 url("../images/slider.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u362_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1020px;
+	position: relative;
+	left: -100px;
+	padding-top: 62px;
+	padding-bottom: 93px;
+}
+
+#u405-4
+{
+	z-index: 194;
+	width: 526px;
+	min-height: 60px;
+	background-color: transparent;
+	color: #592A70;
+	line-height: 66px;
+	text-align: center;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+	font-size: 60px;
+	font-family: questrial, sans-serif;
+	font-weight: 400;
+	left: 347px;
+	position: relative;
+}
+
+#menuu368
+{
+	z-index: 159;
+	width: 508px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 356px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u390
+{
+	width: 91px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u391
+{
+	width: 91px;
+	background-color: transparent;
+	padding-bottom: 15px;
+	position: relative;
+}
+
+#u391:hover
+{
+	width: 91px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u391:active
+{
+	width: 91px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u391.MuseMenuActive
+{
+	width: 91px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u393-4
+{
+	width: 46px;
+	min-height: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+	left: 22px;
+}
+
+#u391:hover #u393-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 46px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u391:active #u393-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 46px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u391.MuseMenuActive #u393-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 46px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u391:hover #u393-4 p
+{
+	color: #C1272D;
+	visibility: inherit;
+}
+
+#u391:active #u393-4 p
+{
+	color: #FF272D;
+	visibility: inherit;
+}
+
+#u376
+{
+	width: 114px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 93px;
+}
+
+#u377
+{
+	width: 114px;
+	background-color: transparent;
+	padding-bottom: 15px;
+	position: relative;
+}
+
+#u377:hover
+{
+	width: 114px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u377:active
+{
+	width: 114px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u377.MuseMenuActive
+{
+	width: 114px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u378-4
+{
+	width: 69px;
+	min-height: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+	left: 22px;
+}
+
+#u377:hover #u378-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u377:active #u378-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u377.MuseMenuActive #u378-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u377:hover #u378-4 p
+{
+	color: #C1272D;
+	visibility: inherit;
+}
+
+#u377:active #u378-4 p
+{
+	color: #FF272D;
+	visibility: inherit;
+}
+
+#u369
+{
+	width: 106px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 209px;
+}
+
+#u370
+{
+	width: 106px;
+	background-color: transparent;
+	padding-bottom: 15px;
+	position: relative;
+}
+
+#u370:hover
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u370:active
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u371-4
+{
+	width: 61px;
+	min-height: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+	left: 22px;
+}
+
+#u370:hover #u371-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 61px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u370:active #u371-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 61px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u370.MuseMenuActive #u371-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 61px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u370:hover #u371-4 p
+{
+	color: #C1272D;
+	visibility: inherit;
+}
+
+#u370:active #u371-4 p
+{
+	color: #FF272D;
+	visibility: inherit;
+}
+
+#u383
+{
+	width: 83px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 317px;
+}
+
+#u386
+{
+	width: 83px;
+	background-color: transparent;
+	padding-bottom: 15px;
+	position: relative;
+}
+
+#u386:hover
+{
+	width: 83px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u386:active
+{
+	width: 83px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u386.MuseMenuActive
+{
+	width: 83px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u387-4
+{
+	width: 38px;
+	min-height: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+	left: 22px;
+}
+
+#u386:hover #u387-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 38px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u386:active #u387-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 38px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u386.MuseMenuActive #u387-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 38px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u386:hover #u387-4 p
+{
+	color: #C1272D;
+	visibility: inherit;
+}
+
+#u386:active #u387-4 p
+{
+	color: #FF272D;
+	visibility: inherit;
+}
+
+#u397
+{
+	width: 106px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 402px;
+}
+
+#u398
+{
+	width: 106px;
+	background-color: transparent;
+	padding-bottom: 15px;
+	position: relative;
+}
+
+#u370.MuseMenuActive,#u398:hover
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u398:active
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u398.MuseMenuActive
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u401-4
+{
+	width: 62px;
+	min-height: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+	left: 22px;
+}
+
+#u398:hover #u401-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 62px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u398:active #u401-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 62px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u398.MuseMenuActive #u401-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 62px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u398:hover #u401-4 p
+{
+	color: #C1272D;
+	visibility: inherit;
+}
+
+#u398:active #u401-4 p
+{
+	color: #FF272D;
+	visibility: inherit;
+}
+
+#u391.MuseMenuActive #u393-4 p,#u377.MuseMenuActive #u378-4 p,#u370.MuseMenuActive #u371-4 p,#u386.MuseMenuActive #u387-4 p,#u398.MuseMenuActive #u401-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u404-4
+{
+	z-index: 190;
+	width: 832px;
+	min-height: 65px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 32px;
+	text-align: center;
+	font-size: 19px;
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	left: 194px;
+	margin-top: 322px;
+	position: relative;
+}
+
+#u362-bw
+{
+	z-index: 148;
+	min-height: 675px;
+}
+
+#pu367-6
+{
+	width: 0.01px;
+	padding-bottom: 178px;
+	margin-left: 20px;
+	margin-top: -433px;
+}
+
+#u367-6
+{
+	z-index: 153;
+	width: 980px;
+	min-height: 115px;
+	background-color: transparent;
+	color: #582970;
+	line-height: 86px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 72px;
+	font-family: dosis, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	position: fixed;
+	top: 291px;
+	left: 20px;
+}
+
+#u367-4
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u367-3
+{
+	font-size: 36px;
+	line-height: 43px;
+}
+
+#u363
+{
+	z-index: 149;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	top: 242px;
+	left: 385px;
+}
+
+#u365
+{
+	z-index: 150;
+	width: 100px;
+	height: 1px;
+	background-color: #FFFFFF;
+	margin-left: 75px;
+	position: relative;
+}
+
+#u366
+{
+	z-index: 151;
+	width: 150px;
+	height: 1px;
+	background-color: #FFFFFF;
+	margin-left: 50px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u364
+{
+	z-index: 152;
+	width: 250px;
+	height: 1px;
+	background-color: #FFFFFF;
+	margin-top: 9px;
+	position: relative;
+}
+
+#about
+{
+	margin-left: 20px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u526
+{
+	z-index: 143;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: 385px;
+	position: relative;
+}
+
+#u527
+{
+	z-index: 144;
+	width: 100px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 75px;
+	position: relative;
+}
+
+#u529
+{
+	z-index: 145;
+	width: 150px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 50px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u528
+{
+	z-index: 146;
+	width: 250px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u525-4
+{
+	z-index: 139;
+	width: 980px;
+	min-height: 47px;
+	background-color: transparent;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	margin-left: 20px;
+	margin-top: 51px;
+	position: relative;
+}
+
+#u534
+{
+	z-index: 137;
+	width: 910px;
+	height: 194px;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #EFF1F2;
+	position: fixed;
+	top: 842px;
+	left: 40px;
+	background: transparent url("../images/model-600238_640.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u535
+{
+	z-index: 135;
+	height: 15px;
+	background-color: #9D69B7;
+}
+
+#u535-bw
+{
+	z-index: 135;
+	margin-top: 128px;
+	height: 15px;
+}
+
+#u533-4
+{
+	z-index: 131;
+	width: 832px;
+	min-height: 121px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-left: 94px;
+	margin-top: 129px;
+	position: relative;
+}
+
+#u573
+{
+	z-index: 138;
+	width: 910px;
+	height: 194px;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #EFF1F2;
+	position: fixed;
+	top: 1237px;
+	left: 40px;
+	background: transparent url("../images/model-600238_640.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u574
+{
+	z-index: 136;
+	height: 15px;
+	background-color: #9D69B7;
+}
+
+#u574-bw
+{
+	z-index: 136;
+	margin-top: 130px;
+	height: 15px;
+}
+
+#u556
+{
+	z-index: 126;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: 385px;
+	margin-top: 159px;
+	position: relative;
+}
+
+#u559
+{
+	z-index: 127;
+	width: 100px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 75px;
+	position: relative;
+}
+
+#u557
+{
+	z-index: 128;
+	width: 150px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 50px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u558
+{
+	z-index: 129;
+	width: 250px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u555-4
+{
+	z-index: 74;
+	width: 980px;
+	min-height: 47px;
+	background-color: transparent;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	margin-left: 20px;
+	margin-top: 51px;
+	position: relative;
+}
+
+#pu543
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u543
+{
+	z-index: 78;
+	width: 225px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 875px;
+}
+
+#u544
+{
+	z-index: 91;
+	width: 175px;
+	height: 175px;
+	border-radius: 0px 100px 0px 100px ;
+	margin-left: 25px;
+	position: relative;
+	background: transparent url("../images/102_4643fb%202-u544-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u546-4
+{
+	z-index: 87;
+	width: 225px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u545-8
+{
+	z-index: 79;
+	width: 225px;
+	min-height: 100px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u551
+{
+	z-index: 92;
+	width: 225px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 120px;
+}
+
+#u553
+{
+	z-index: 105;
+	width: 175px;
+	height: 175px;
+	border-radius: 100px 0px 100px 0px ;
+	margin-left: 25px;
+	position: relative;
+	background: transparent url("../images/041-u553-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u552-4
+{
+	z-index: 101;
+	width: 225px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u554-8
+{
+	z-index: 93;
+	width: 225px;
+	min-height: 100px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u547
+{
+	z-index: 106;
+	width: 225px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 45px;
+	left: 375px;
+}
+
+#u549
+{
+	z-index: 115;
+	width: 175px;
+	height: 175px;
+	border-radius: 200px;
+	margin-left: 25px;
+	position: relative;
+	background: transparent url("../images/neuromancer-film-1200x630-c-u549-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u550-4
+{
+	z-index: 111;
+	width: 225px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u548-4
+{
+	z-index: 107;
+	width: 225px;
+	min-height: 100px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u568
+{
+	z-index: 116;
+	width: 225px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 45px;
+	left: 620px;
+}
+
+#u569
+{
+	z-index: 125;
+	width: 175px;
+	height: 175px;
+	border-radius: 200px;
+	margin-left: 25px;
+	position: relative;
+	background: transparent url("../images/neuromancer-film-1200x630-c-u549-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u570-4
+{
+	z-index: 121;
+	width: 225px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u571-4
+{
+	z-index: 117;
+	width: 225px;
+	min-height: 100px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u572
+{
+	z-index: 130;
+	height: 424px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+.js #u572.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u572-bw
+{
+	z-index: 130;
+	height: 424px;
+}
+
+#u333
+{
+	z-index: 70;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: 385px;
+	margin-top: 1479px;
+	position: relative;
+}
+
+#u335
+{
+	z-index: 71;
+	width: 100px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 75px;
+	position: relative;
+}
+
+#u336
+{
+	z-index: 72;
+	width: 150px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 50px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u334
+{
+	z-index: 73;
+	width: 250px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u320-4
+{
+	z-index: 26;
+	width: 980px;
+	min-height: 47px;
+	background-color: transparent;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	margin-left: 20px;
+	margin-top: 52px;
+	position: relative;
+}
+
+#u325
+{
+	z-index: 44;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 3702px;
+	left: 20px;
+}
+
+#u326
+{
+	z-index: 57;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 28px;
+	position: relative;
+	background: transparent url("../images/041-u326-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u328-4
+{
+	z-index: 53;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u327-8
+{
+	z-index: 45;
+	width: 285px;
+	min-height: 146px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u329
+{
+	z-index: 58;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 381px;
+	margin-top: 43px;
+	position: relative;
+}
+
+#u332
+{
+	z-index: 69;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 28px;
+	position: relative;
+	background: transparent url("../images/neuromancer-film-1200x630-c-ieu332-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/neuromancer-film-1200x630-c.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u330-4
+{
+	z-index: 65;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u331-6
+{
+	z-index: 59;
+	width: 285px;
+	min-height: 146px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u321
+{
+	z-index: 30;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 3702px;
+	left: 715px;
+}
+
+#u322
+{
+	z-index: 43;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 28px;
+	position: relative;
+	background: transparent url("../images/102_4643fb%202-u322-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u323-4
+{
+	z-index: 39;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #8748A3;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u324-8
+{
+	z-index: 31;
+	width: 285px;
+	min-height: 146px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#pu301
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 30px;
+}
+
+#u301
+{
+	z-index: 11;
+	min-height: 565px;
+	background-color: #EFF1F2;
+}
+
+#u301_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1020px;
+	position: relative;
+	left: -100px;
+	padding-top: 39px;
+	padding-bottom: 22px;
+}
+
+#u302-4
+{
+	z-index: 12;
+	width: 980px;
+	min-height: 47px;
+	background-color: transparent;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+	left: 120px;
+	position: relative;
+}
+
+#u303-4
+{
+	z-index: 16;
+	width: 832px;
+	min-height: 121px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	left: 194px;
+	margin-top: 274px;
+	position: relative;
+}
+
+#u306-4
+{
+	z-index: 22;
+	width: 220px;
+	min-height: 29px;
+	background-color: #9D69B8;
+	padding-top: 11px;
+	color: #FFFFFF;
+	line-height: 22px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	left: 500px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u306-4:hover
+{
+	background-color: #714B84;
+	padding-top: 11px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 220px;
+	margin: 22px 0px 0px;
+}
+
+#u301-bw
+{
+	z-index: 11;
+	min-height: 565px;
+}
+
+#u304
+{
+	z-index: 20;
+	height: 15px;
+	background-color: #9D69B7;
+}
+
+#u304-bw
+{
+	z-index: 20;
+	margin-top: 216px;
+	height: 15px;
+}
+
+#u305
+{
+	z-index: 21;
+	width: 910px;
+	height: 194px;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #EFF1F2;
+	position: fixed;
+	top: 4302px;
+	left: 40px;
+	background: transparent url("../images/model-600238_640.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u174
+{
+	z-index: 2;
+	min-height: 120px;
+	padding-bottom: 63px;
+	background: #A36CB7 url("../images/separator.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u174_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1020px;
+	position: relative;
+	left: -100px;
+}
+
+#u198-4
+{
+	z-index: 3;
+	width: 980px;
+	min-height: 50px;
+	background-color: transparent;
+	line-height: 58px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 120px;
+}
+
+#u174-bw
+{
+	z-index: 2;
+	min-height: 120px;
+}
+
+#u283-4
+{
+	z-index: 7;
+	width: 980px;
+	min-height: 22px;
+	border-style: none;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: 12px;
+	font-family: dosis, sans-serif;
+	font-weight: 200;
+	margin-left: 20px;
+	margin-top: 16px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 1020px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
