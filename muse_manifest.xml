@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456250206942">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456325710512">
   <folder name="css">
     <file name="site_global.css" crc="4189438098"/>
-    <file name="index.css" crc="3779898249" ref="index"/>
-    <file name="iefonts_index.css" crc="4131284762" ref="index"/>
+    <file name="index.css" crc="3835524644" ref="index"/>
+    <file name="iefonts_index.css" crc="52669474" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -28,5 +28,5 @@
     <file name="screenshot 2015-11-30 at 152319.jpg" crc="3781213147" ref="index"/>
     <file name="screenshot 2016-01-21 at 113223 copy.jpg" crc="4132444024" ref="index"/>
   </folder>
-  <file name="index.html" crc="4032669152" seo="true" mt="1456250196829" redirect="true"/>
+  <file name="index.html" crc="3937567429" seo="true" mt="1456325698300" redirect="true"/>
 </manifest>
