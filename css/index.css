@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #0A308B;
+	color: #000004;
+	background-color: #57B730;
 }
 
 .html
@@ -113,22 +113,22 @@
 
 #u1137:hover
 {
+	background-color: #C993C7;
+	background-color: rgba(147,39,143,0.5);
+	width: 50px;
+	min-height: 0px;
+	margin: 44px 0px 0px;
+	-pie-background: rgba(147,39,143,0.5);
+}
+
+#u1137:active
+{
 	background-color: #AE5DAB;
 	background-color: rgba(147,39,143,0.75);
 	width: 50px;
 	min-height: 0px;
 	margin: 44px 0px 0px;
 	-pie-background: rgba(147,39,143,0.75);
-}
-
-#u1137:active
-{
-	background-color: #93278F;
-	background-color: rgba(147,39,143,1);
-	width: 50px;
-	min-height: 0px;
-	margin: 44px 0px 0px;
-	-pie-background: rgba(147,39,143,1);
 }
 
 #u1137_img
@@ -140,9 +140,9 @@
 
 #u1137_img:hover
 {
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 }
 
 #u1087
@@ -207,22 +207,22 @@
 
 #u391:hover
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 162px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u391:active
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 162px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u391.MuseMenuActive
@@ -309,22 +309,22 @@
 
 #u377:hover
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 196px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u377:active
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 196px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u377.MuseMenuActive
@@ -411,22 +411,22 @@
 
 #u370:hover
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 184px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u370:active
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 184px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u370.MuseMenuActive
@@ -513,22 +513,22 @@
 
 #u386:hover
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 150px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u386:active
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 150px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u386.MuseMenuActive
@@ -615,22 +615,22 @@
 
 #u398:hover
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 185px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u398:active
 {
-	background-color: #E4C9E3;
-	background-color: rgba(147,39,143,0.25);
+	background-color: #AE5DAB;
+	background-color: rgba(147,39,143,0.75);
 	width: 185px;
 	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(147,39,143,0.25);
+	-pie-background: rgba(147,39,143,0.75);
 }
 
 #u398.MuseMenuActive
@@ -822,22 +822,22 @@
 
 #u1143:hover
 {
+	background-color: #C993C7;
+	background-color: rgba(147,39,143,0.5);
+	width: 50px;
+	min-height: 0px;
+	margin: 62px -10000px 0px 0px;
+	-pie-background: rgba(147,39,143,0.5);
+}
+
+#u1143:active
+{
 	background-color: #AE5DAB;
 	background-color: rgba(147,39,143,0.75);
 	width: 50px;
 	min-height: 0px;
 	margin: 62px -10000px 0px 0px;
 	-pie-background: rgba(147,39,143,0.75);
-}
-
-#u1143:active
-{
-	background-color: #93278F;
-	background-color: rgba(147,39,143,1);
-	width: 50px;
-	min-height: 0px;
-	margin: 62px -10000px 0px 0px;
-	-pie-background: rgba(147,39,143,1);
 }
 
 #u1143_img
@@ -849,9 +849,9 @@
 
 #u1143_img:hover
 {
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 }
 
 #u1149
@@ -869,22 +869,22 @@
 
 #u1149:hover
 {
+	background-color: #C993C7;
+	background-color: rgba(147,39,143,0.5);
+	width: 50px;
+	min-height: 0px;
+	margin: 62px -10000px 0px 0px;
+	-pie-background: rgba(147,39,143,0.5);
+}
+
+#u1149:active
+{
 	background-color: #AE5DAB;
 	background-color: rgba(147,39,143,0.75);
 	width: 50px;
 	min-height: 0px;
 	margin: 62px -10000px 0px 0px;
 	-pie-background: rgba(147,39,143,0.75);
-}
-
-#u1149:active
-{
-	background-color: #93278F;
-	background-color: rgba(147,39,143,1);
-	width: 50px;
-	min-height: 0px;
-	margin: 62px -10000px 0px 0px;
-	-pie-background: rgba(147,39,143,1);
 }
 
 #u1149_img
@@ -896,9 +896,9 @@
 
 #u1149_img:hover
 {
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 }
 
 #u1155
@@ -916,22 +916,22 @@
 
 #u1155:hover
 {
+	background-color: #C993C7;
+	background-color: rgba(147,39,143,0.5);
+	width: 50px;
+	min-height: 0px;
+	margin: 62px -10000px 0px 0px;
+	-pie-background: rgba(147,39,143,0.5);
+}
+
+#u1155:active
+{
 	background-color: #AE5DAB;
 	background-color: rgba(147,39,143,0.75);
 	width: 50px;
 	min-height: 0px;
 	margin: 62px -10000px 0px 0px;
 	-pie-background: rgba(147,39,143,0.75);
-}
-
-#u1155:active
-{
-	background-color: #93278F;
-	background-color: rgba(147,39,143,1);
-	width: 50px;
-	min-height: 0px;
-	margin: 62px -10000px 0px 0px;
-	-pie-background: rgba(147,39,143,1);
 }
 
 #u1155_img
@@ -944,16 +944,16 @@
 
 #u1155_img:hover
 {
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 }
 
 #u1137_img:active,#u1143_img:active,#u1149_img:active,#u1155_img:active
 {
-	opacity: 1;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	filter: alpha(opacity=100);
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
 }
 
 #about
