@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456501508092">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456502018668">
   <folder name="assets">
     <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
     <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="248950320"/>
-    <file name="index.css" crc="4205664842" ref="index"/>
+    <file name="index.css" crc="4415896" ref="index"/>
     <file name="iefonts_index.css" crc="4200577912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -25,18 +25,36 @@
   <folder name="images">
     <file name="102_4643fb 2-u544-fr.jpg" crc="4057905693" ref="index"/>
     <file name="041-u553-fr.jpg" crc="3965459482" ref="index"/>
-    <file name="neuromancer-film-1200x630-c-u549-fr.jpg" crc="496641256" ref="index"/>
+    <file name="neuromancer-film-1200x630-c-u549-fr.jpg" crc="120488341" ref="index"/>
     <file name="041-u326-fr.jpg" crc="409313182" ref="index"/>
-    <file name="neuromancer-film-1200x630-c-ieu332-fr.png" crc="4184612337" ref="index"/>
-    <file name="neuromancer-film-1200x630-c.jpg" crc="490148382" ref="index"/>
     <file name="102_4643fb 2-u322-fr.jpg" crc="4005067235" ref="index"/>
-    <file name="screenshot 2016-01-21 at 113223 copy.jpg" crc="4132444024" ref="index"/>
-    <file name="favicon.ico" crc="45662816" ref="index"/>
-    <file name="002.jpg" crc="3765058841" ref="index"/>
-    <file name="capt_0007_02.jpg" crc="4265489448" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319 copy-u174-fr.png" crc="3933227586" ref="index"/>
     <file name="capt_0006_03_aa-u362-fr.png" crc="71044086" ref="index"/>
-    <file name="logov4title 2.png" crc="1019156" seo="true" ref="index"/>
+    <file name="logov4title 2.png" crc="4071444545" seo="true" ref="index"/>
+    <file name="dixievr-favicon.ico" crc="3850738057" ref="index"/>
+    <file name="logov4title 2_2x.png" crc="215098557" seo="true" ref="index"/>
+    <file name="off.png" crc="4137614313" ref="index"/>
+    <file name="off_2x.png" crc="110711512" ref="index"/>
+    <file name="unavailable.png" crc="4136258698" ref="index"/>
+    <file name="unavailable_2x.png" crc="4264099715" ref="index"/>
+    <file name="off_rollover.png" crc="125515327" ref="index"/>
+    <file name="off_rollover_2x.png" crc="4094218968" ref="index"/>
+    <file name="off_mousedown.png" crc="4137614313" ref="index"/>
+    <file name="off_mousedown_2x.png" crc="110711512" ref="index"/>
+    <file name="on-u1093-on-fr.png" crc="4240592867" ref="index"/>
+    <file name="on-u1093-on-fr_2x.png" crc="4184688182" ref="index"/>
+    <file name="on_rollover-u1093-on-r-fr.png" crc="4172055051" ref="index"/>
+    <file name="on_rollover-u1093-on-r-fr_2x.png" crc="148326407" ref="index"/>
+    <file name="on_mousedown-u1093-on-m-fr.png" crc="4240592867" ref="index"/>
+    <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4184688182" ref="index"/>
+    <file name="002-u534-fr.jpg" crc="4095797571" ref="index"/>
+    <file name="capt_0007_02-u573-fr.jpg" crc="198310168" ref="index"/>
+    <file name="041-u553-fr_2x.jpg" crc="3970759647" ref="index"/>
+    <file name="102_4643fb 2-u544-fr_2x.jpg" crc="3968530101" ref="index"/>
+    <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
+    <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
+    <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
+    <file name="screenshot 2016-01-21 at 113223 copy-u305-fr.jpg" crc="4132444024" ref="index"/>
   </folder>
-  <file name="index.html" crc="4127771227" seo="true" mt="1456501469153" redirect="true"/>
+  <file name="index.html" crc="50569933" seo="true" mt="1456502015060" redirect="true"/>
 </manifest>

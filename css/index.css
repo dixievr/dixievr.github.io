@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FA;
-	background-color: #AD5A4A;
+	color: #000000;
+	background-color: #436198;
 }
 
 .html
@@ -661,6 +661,106 @@
 	min-height: 800px;
 }
 
+#u1093
+{
+	z-index: 242;
+	width: 64px;
+	height: 65px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 201px;
+	left: 144px;
+	background: transparent url("../images/off.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.off:hover
+{
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 201px -10000px 0px 0px;
+	background: transparent url("../images/off_rollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.unavailable
+{
+	background: transparent url("../images/unavailable.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.on
+{
+	background: transparent url("../images/on-u1093-on-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.off:active
+{
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 201px -10000px 0px 0px;
+	background: transparent url("../images/off_mousedown.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.on:hover
+{
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 201px -10000px 0px 0px;
+	background: transparent url("../images/on_rollover-u1093-on-r-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.on:active
+{
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 201px -10000px 0px 0px;
+	background: transparent url("../images/on_mousedown-u1093-on-m-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u1093
+{
+	background-image: url("../images/off_2x.png");
+}
+
+.hidpi #u1093.unavailable
+{
+	background-image: url("../images/unavailable_2x.png");
+}
+
+.hidpi #u1093.off:hover
+{
+	background-image: url("../images/off_rollover_2x.png");
+}
+
+.hidpi #u1093.off:active
+{
+	background-image: url("../images/off_mousedown_2x.png");
+}
+
+.hidpi #u1093.on
+{
+	background-image: url("../images/on-u1093-on-fr_2x.png");
+}
+
+.hidpi #u1093.on:hover
+{
+	background-image: url("../images/on_rollover-u1093-on-r-fr_2x.png");
+}
+
+.hidpi #u1093.on:active
+{
+	background-image: url("../images/on_mousedown-u1093-on-m-fr_2x.png");
+}
+
 #about
 {
 	margin-left: 20px;
@@ -780,7 +880,7 @@
 	position: fixed;
 	top: 913px;
 	left: 40px;
-	background: transparent url("../images/002.jpg") no-repeat center center;
+	background: transparent url("../images/002-u534-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -829,7 +929,7 @@
 	position: fixed;
 	top: 1330px;
 	left: 40px;
-	background: transparent url("../images/capt_0007_02.jpg") no-repeat center center;
+	background: transparent url("../images/capt_0007_02-u573-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1023,6 +1123,11 @@
 	background-size: cover;
 }
 
+.hidpi #u553
+{
+	background-image: url("../images/041-u553-fr_2x.jpg");
+}
+
 #u552-4
 {
 	z-index: 126;
@@ -1194,6 +1299,11 @@
 	position: relative;
 	background: transparent url("../images/102_4643fb%202-u544-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u544
+{
+	background-image: url("../images/102_4643fb%202-u544-fr_2x.jpg");
 }
 
 #u546-4
@@ -1670,6 +1780,11 @@
 	background-size: cover;
 }
 
+.hidpi #u326
+{
+	background-image: url("../images/041-u326-fr_2x.jpg");
+}
+
 #u328-4
 {
 	z-index: 68;
@@ -1722,9 +1837,7 @@
 	border-radius: 200px;
 	margin-left: 28px;
 	position: relative;
-	background: transparent url("../images/neuromancer-film-1200x630-c-ieu332-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/neuromancer-film-1200x630-c.jpg") no-repeat center center;
-	background-color: transparent;
+	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1783,6 +1896,11 @@
 	position: relative;
 	background: transparent url("../images/102_4643fb%202-u322-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u322
+{
+	background-image: url("../images/102_4643fb%202-u322-fr_2x.jpg");
 }
 
 #u323-4
@@ -2094,7 +2212,7 @@
 	position: fixed;
 	top: 4302px;
 	left: 40px;
-	background: transparent url("../images/screenshot%202016-01-21%20at%20113223%20copy.jpg") no-repeat center center;
+	background: transparent url("../images/screenshot%202016-01-21%20at%20113223%20copy-u305-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
