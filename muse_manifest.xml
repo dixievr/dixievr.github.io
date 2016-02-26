@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456514029838">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456514538772">
   <folder name="assets">
     <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
     <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="248950320"/>
-    <file name="index.css" crc="4045724592" ref="index"/>
+    <file name="index.css" crc="189770466" ref="index"/>
     <file name="iefonts_index.css" crc="4200577912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -45,7 +45,6 @@
     <file name="on_mousedown-u1093-on-m-fr.png" crc="4240592867" ref="index"/>
     <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4184688182" ref="index"/>
     <file name="002-u534-fr.jpg" crc="4095797571" ref="index"/>
-    <file name="capt_0007_02-u573-fr.jpg" crc="198310168" ref="index"/>
     <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
     <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
     <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
@@ -78,6 +77,7 @@
     <file name="004.jpg" crc="4092524588" ref="index"/>
     <file name="004-ieu544-fr2.png" crc="3876669870" ref="index"/>
     <file name="004_2x.jpg" crc="369699390" ref="index"/>
+    <file name="capt_0009_background copy.jpg" crc="4040398720" ref="index"/>
   </folder>
-  <file name="index.html" crc="4058710189" seo="true" mt="1456514019592" redirect="true"/>
+  <file name="index.html" crc="98799300" seo="true" mt="1456514502420" redirect="true"/>
 </manifest>

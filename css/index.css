@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #24DBB0;
+	color: #00000B;
+	background-color: #4FAAE2;
 }
 
 .html
@@ -1172,7 +1172,7 @@
 	position: fixed;
 	top: 1345px;
 	left: 40px;
-	background: transparent url("../images/capt_0007_02-u573-fr.jpg") no-repeat center center;
+	background: transparent url("../images/capt_0009_background%20copy.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1272,7 +1272,7 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -1335,7 +1335,7 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -1400,7 +1400,7 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -1464,7 +1464,7 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -1965,7 +1965,7 @@
 	width: 320px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -2021,7 +2021,7 @@
 	width: 285px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -2083,7 +2083,7 @@
 	width: 320px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #8748A3;
+	color: #0060B8;
 	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
@@ -2254,7 +2254,7 @@
 	z-index: 26;
 	width: 250px;
 	min-height: 34px;
-	background-color: #000000;
+	background-color: #0060B8;
 	padding-top: 11px;
 	color: #FFFFFF;
 	line-height: 22px;
@@ -2483,7 +2483,7 @@
 
 #u198
 {
-	color: #93278F;
+	color: #0060B8;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 }
