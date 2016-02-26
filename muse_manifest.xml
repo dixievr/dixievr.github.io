@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456514538772">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456515693652">
   <folder name="assets">
     <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
     <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="248950320"/>
-    <file name="index.css" crc="189770466" ref="index"/>
+    <file name="site_global.css" crc="4230502334"/>
+    <file name="index.css" crc="369429234" ref="index"/>
     <file name="iefonts_index.css" crc="4200577912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -59,10 +59,10 @@
     <file name="vimeo-xxl_2x.png" crc="368317541" seo="true" ref="index"/>
     <file name="u1182.png" crc="3790003747" ref="index"/>
     <file name="u1182-r.png" crc="421909847" ref="index"/>
-    <file name="u1182-m.png" crc="4071296079" ref="index"/>
+    <file name="u1182-m.png" crc="3803192657" ref="index"/>
     <file name="u1182_2x.png" crc="225155408" ref="index"/>
     <file name="u1182-r_2x.png" crc="3779304589" ref="index"/>
-    <file name="u1182-m_2x.png" crc="204804829" ref="index"/>
+    <file name="u1182-m_2x.png" crc="43800046" ref="index"/>
     <file name="001-ieu553-fr.png" crc="152965476" ref="index"/>
     <file name="001.jpg" crc="4029095569" ref="index"/>
     <file name="001-ieu553-fr2.png" crc="39001011" ref="index"/>
@@ -78,6 +78,7 @@
     <file name="004-ieu544-fr2.png" crc="3876669870" ref="index"/>
     <file name="004_2x.jpg" crc="369699390" ref="index"/>
     <file name="capt_0009_background copy.jpg" crc="4040398720" ref="index"/>
+    <file name="capt_0002_07.jpg" crc="4011399178" ref="index"/>
   </folder>
-  <file name="index.html" crc="98799300" seo="true" mt="1456514502420" redirect="true"/>
+  <file name="index.html" crc="347553842" seo="true" mt="1456515684079" redirect="true"/>
 </manifest>
