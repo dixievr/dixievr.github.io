@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #3D4DF5;
+	color: #0000FA;
+	background-color: #AD5A4A;
 }
 
 .html
@@ -28,10 +28,61 @@
 	width: 0.01px;
 }
 
+#pu526
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u526
+{
+	z-index: 192;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 748px;
+	left: 485px;
+}
+
+#u527
+{
+	z-index: 193;
+	width: 100px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 75px;
+	position: relative;
+}
+
+#u529
+{
+	z-index: 194;
+	width: 150px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-left: 50px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u528
+{
+	z-index: 195;
+	width: 250px;
+	height: 1px;
+	background-color: #CCCCCC;
+	margin-top: 9px;
+	position: relative;
+}
+
 #u362
 {
 	z-index: 202;
-	min-height: 725px;
+	min-height: 800px;
 	background: #3F3F3F url("../images/capt_0006_03_aa-u362-fr.png") no-repeat center center;
 	background-color: rgba(0,0,0,0.75);
 	background-size: cover;
@@ -39,7 +90,7 @@
 
 #u362_position_content
 {
-	padding-bottom: 119px;
+	padding-bottom: 194px;
 }
 
 #top
@@ -607,57 +658,13 @@
 #u362-bw
 {
 	z-index: 202;
-	min-height: 725px;
-}
-
-#u526
-{
-	z-index: 192;
-	width: 250px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	padding-bottom: 0px;
-	margin-left: 385px;
-	margin-top: 23px;
-	position: relative;
-}
-
-#u527
-{
-	z-index: 193;
-	width: 100px;
-	height: 1px;
-	background-color: #CCCCCC;
-	margin-left: 75px;
-	position: relative;
-}
-
-#u529
-{
-	z-index: 194;
-	width: 150px;
-	height: 1px;
-	background-color: #CCCCCC;
-	margin-left: 50px;
-	margin-top: 10px;
-	position: relative;
-}
-
-#u528
-{
-	z-index: 195;
-	width: 250px;
-	height: 1px;
-	background-color: #CCCCCC;
-	margin-top: 9px;
-	position: relative;
+	min-height: 800px;
 }
 
 #about
 {
 	margin-left: 20px;
-	margin-top: 54px;
+	margin-top: 24px;
 	position: relative;
 }
 
