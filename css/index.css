@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #92B092;
+	color: #0000EF;
+	background-color: #38F4B3;
 }
 
 .html
@@ -1861,7 +1861,7 @@
 #u958
 {
 	z-index: 129;
-	min-height: 650px;
+	min-height: 658px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1870,7 +1870,7 @@
 #u958-bw
 {
 	z-index: 129;
-	min-height: 650px;
+	min-height: 658px;
 	margin-top: 26px;
 }
 
@@ -2186,125 +2186,6 @@
 	visibility: inherit;
 }
 
-#u325
-{
-	z-index: 57;
-	width: 320px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	padding-bottom: 0px;
-	position: fixed;
-	top: 3780px;
-	left: 20px;
-}
-
-#u326
-{
-	z-index: 75;
-	width: 230px;
-	height: 230px;
-	border-radius: 200px;
-	margin-left: 45px;
-	position: relative;
-	background: transparent url("../images/041-u326-fr.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-.hidpi #u326
-{
-	background-image: url("../images/041-u326-fr_2x.jpg");
-}
-
-#u328-4
-{
-	z-index: 71;
-	width: 320px;
-	min-height: 41px;
-	background-color: transparent;
-	color: #FF00AE;
-	line-height: 34px;
-	text-align: center;
-	text-transform: uppercase;
-	font-size: 20px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 29px;
-	position: relative;
-}
-
-#u327-13
-{
-	z-index: 58;
-	width: 320px;
-	min-height: 175px;
-	background-color: transparent;
-	text-align: center;
-	font-size: 17px;
-	line-height: 29px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 11px;
-	position: relative;
-}
-
-#u329
-{
-	z-index: 76;
-	width: 285px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 367px;
-	margin-top: 27px;
-	position: relative;
-}
-
-#u332
-{
-	z-index: 90;
-	width: 230px;
-	height: 230px;
-	border-radius: 200px;
-	margin-left: 28px;
-	position: relative;
-	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u330-4
-{
-	z-index: 86;
-	width: 285px;
-	min-height: 41px;
-	background-color: transparent;
-	color: #FF00AE;
-	line-height: 34px;
-	text-align: center;
-	text-transform: uppercase;
-	font-size: 20px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 29px;
-	position: relative;
-}
-
-#u331-9
-{
-	z-index: 77;
-	width: 285px;
-	min-height: 175px;
-	background-color: transparent;
-	color: #474747;
-	text-align: center;
-	font-size: 17px;
-	line-height: 29px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 12px;
-	position: relative;
-}
-
 #u321
 {
 	z-index: 38;
@@ -2366,9 +2247,128 @@
 	position: relative;
 }
 
-#u327-11,#u324-11
+#u325
+{
+	z-index: 57;
+	width: 320px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	top: 3784px;
+	left: 20px;
+}
+
+#u326
+{
+	z-index: 75;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 45px;
+	position: relative;
+	background: transparent url("../images/041-u326-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u326
+{
+	background-image: url("../images/041-u326-fr_2x.jpg");
+}
+
+#u328-4
+{
+	z-index: 71;
+	width: 320px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FF00AE;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u327-13
+{
+	z-index: 58;
+	width: 320px;
+	min-height: 175px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u324-11,#u327-11
 {
 	color: #7F7F7F;
+}
+
+#u329
+{
+	z-index: 76;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 367px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u332
+{
+	z-index: 90;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 28px;
+	position: relative;
+	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u330-4
+{
+	z-index: 86;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FF00AE;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u331-9
+{
+	z-index: 77;
+	width: 285px;
+	min-height: 175px;
+	background-color: transparent;
+	color: #474747;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
 }
 
 #u1178
@@ -2380,7 +2380,7 @@
 	background-color: transparent;
 	padding-bottom: 0px;
 	margin-left: 385px;
-	margin-top: 45px;
+	margin-top: 41px;
 	position: relative;
 }
 
@@ -2481,7 +2481,7 @@
 	position: relative;
 }
 
-#u327-2,#u327-4,#u327-6,#u327-8,#u324-2,#u324-4,#u324-6,#u324-8,#u303-2
+#u324-2,#u324-4,#u324-6,#u324-8,#u327-2,#u327-4,#u327-6,#u327-8,#u303-2
 {
 	color: #474747;
 }
