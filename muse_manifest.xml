@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456511234479">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456513355482">
   <folder name="assets">
     <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
     <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="248950320"/>
-    <file name="index.css" crc="3862591843" ref="index"/>
+    <file name="index.css" crc="4165244887" ref="index"/>
     <file name="iefonts_index.css" crc="4200577912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -23,9 +23,6 @@
     <file name="touchswipe.js" crc="4218319045" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="102_4643fb 2-u544-fr.jpg" crc="4057905693" ref="index"/>
-    <file name="041-u553-fr.jpg" crc="3965459482" ref="index"/>
-    <file name="neuromancer-film-1200x630-c-u549-fr.jpg" crc="120488341" ref="index"/>
     <file name="041-u326-fr.jpg" crc="409313182" ref="index"/>
     <file name="102_4643fb 2-u322-fr.jpg" crc="4005067235" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319 copy-u174-fr.png" crc="3933227586" ref="index"/>
@@ -49,8 +46,6 @@
     <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4184688182" ref="index"/>
     <file name="002-u534-fr.jpg" crc="4095797571" ref="index"/>
     <file name="capt_0007_02-u573-fr.jpg" crc="198310168" ref="index"/>
-    <file name="041-u553-fr_2x.jpg" crc="3970759647" ref="index"/>
-    <file name="102_4643fb 2-u544-fr_2x.jpg" crc="3968530101" ref="index"/>
     <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
     <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
     <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
@@ -63,6 +58,28 @@
     <file name="linkedin white_2x.png" crc="294042000" seo="true" ref="index"/>
     <file name="vimeo-xxl.png" crc="180125723" seo="true" ref="index"/>
     <file name="vimeo-xxl_2x.png" crc="368317541" seo="true" ref="index"/>
+    <file name="u1182.png" crc="3790003747" ref="index"/>
+    <file name="u1182-r.png" crc="421909847" ref="index"/>
+    <file name="u1182-m.png" crc="4071296079" ref="index"/>
+    <file name="u1182_2x.png" crc="225155408" ref="index"/>
+    <file name="u1182-r_2x.png" crc="3779304589" ref="index"/>
+    <file name="u1182-m_2x.png" crc="204804829" ref="index"/>
+    <file name="001-ieu553-fr.png" crc="152965476" ref="index"/>
+    <file name="001.jpg" crc="4029095569" ref="index"/>
+    <file name="001-ieu553-fr2.png" crc="39001011" ref="index"/>
+    <file name="001_2x.jpg" crc="105919126" ref="index"/>
+    <file name="002-ieu549-fr.png" crc="254330855" ref="index"/>
+    <file name="002.jpg" crc="436935451" ref="index"/>
+    <file name="002-ieu549-fr2.png" crc="27912001" ref="index"/>
+    <file name="002_2x.jpg" crc="4102311523" ref="index"/>
+    <file name="003-ieu569-fr.png" crc="419666335" ref="index"/>
+    <file name="003.jpg" crc="409202697" ref="index"/>
+    <file name="003-ieu569-fr2.png" crc="4072755989" ref="index"/>
+    <file name="003_2x.jpg" crc="109472917" ref="index"/>
+    <file name="004-ieu544-fr.png" crc="10555231" ref="index"/>
+    <file name="004.jpg" crc="4092524588" ref="index"/>
+    <file name="004-ieu544-fr2.png" crc="3876669870" ref="index"/>
+    <file name="004_2x.jpg" crc="369699390" ref="index"/>
   </folder>
-  <file name="index.html" crc="63794613" seo="true" mt="1456511184972" redirect="true"/>
+  <file name="index.html" crc="3847049949" seo="true" mt="1456513333449" redirect="true"/>
 </manifest>
