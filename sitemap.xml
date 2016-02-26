@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://dixievr.github.io/images/logov4title.png</loc>
+    <lastmod>2016-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://dixievr.github.io/index.html</loc>
     <lastmod>2016-02-26</lastmod>
     <changefreq>weekly</changefreq>

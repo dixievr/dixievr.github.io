@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #CB1E91;
+	color: #0000EE;
+	background-color: #A36D2B;
 }
 
 .html
@@ -48,34 +48,43 @@
 	position: relative;
 }
 
-#u405-4
+#u1068
 {
 	z-index: 248;
-	width: 526px;
-	min-height: 60px;
+	width: 312px;
 	background-color: transparent;
-	color: #93278F;
-	line-height: 79px;
+	left: 454px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u367-4
+{
+	z-index: 207;
+	width: 980px;
+	min-height: 11px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 6px;
 	text-align: center;
-	letter-spacing: 20px;
+	letter-spacing: 5px;
 	text-transform: uppercase;
-	font-size: 72px;
-	font-family: questrial, sans-serif;
-	font-weight: 400;
-	left: 347px;
-	margin-top: 44px;
+	font-size: 5px;
+	font-family: dosis, sans-serif;
+	font-weight: 200;
+	left: 120px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #menuu368
 {
-	z-index: 213;
+	z-index: 211;
 	width: 508px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	left: 356px;
-	margin-top: 5px;
 	position: relative;
 }
 
@@ -564,10 +573,13 @@
 
 #u404-4
 {
-	z-index: 244;
+	z-index: 242;
 	width: 980px;
 	min-height: 65px;
 	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 	color: #000000;
 	line-height: 26px;
 	text-align: center;
@@ -576,7 +588,7 @@
 	font-weight: 300;
 	font-style: normal;
 	left: 120px;
-	margin-top: 503px;
+	margin-top: 493px;
 	position: relative;
 }
 
@@ -584,43 +596,6 @@
 {
 	z-index: 202;
 	min-height: 725px;
-}
-
-#pu367-6
-{
-	width: 0.01px;
-	padding-bottom: 224px;
-	margin-left: 20px;
-	margin-top: -483px;
-}
-
-#u367-6
-{
-	z-index: 207;
-	width: 980px;
-	min-height: 115px;
-	background-color: transparent;
-	color: #662D91;
-	text-align: center;
-	text-transform: uppercase;
-	font-family: dosis, sans-serif;
-	font-weight: 200;
-	font-style: normal;
-	position: fixed;
-	top: 351px;
-	left: 20px;
-}
-
-#u367-2
-{
-	font-size: 60px;
-	line-height: 72px;
-}
-
-#u367-4
-{
-	font-size: 30px;
-	line-height: 36px;
 }
 
 #u363
@@ -2196,6 +2171,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
 	line-height: 58px;
 	position: relative;
 	margin-right: -10000px;
@@ -2206,6 +2184,8 @@
 #u198
 {
 	color: #93278F;
+	font-family: dosis, sans-serif;
+	font-weight: 200;
 }
 
 #u174-bw
