@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456515693652">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456516161138">
   <folder name="assets">
     <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
     <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4230502334"/>
-    <file name="index.css" crc="369429234" ref="index"/>
+    <file name="index.css" crc="478913742" ref="index"/>
     <file name="iefonts_index.css" crc="4200577912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -80,5 +80,5 @@
     <file name="capt_0009_background copy.jpg" crc="4040398720" ref="index"/>
     <file name="capt_0002_07.jpg" crc="4011399178" ref="index"/>
   </folder>
-  <file name="index.html" crc="347553842" seo="true" mt="1456515684079" redirect="true"/>
+  <file name="index.html" crc="4154535218" seo="true" mt="1456515894695" redirect="true"/>
 </manifest>
