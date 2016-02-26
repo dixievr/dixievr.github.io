@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #4497D7;
+	color: #000017;
+	background-color: #FEE901;
 }
 
 .html
@@ -1151,7 +1151,7 @@
 	min-height: 121px;
 	background-color: transparent;
 	color: #474747;
-	text-align: center;
+	text-align: left;
 	font-size: 17px;
 	line-height: 29px;
 	font-family: dosis, sans-serif;
@@ -1203,19 +1203,13 @@
 #u979
 {
 	z-index: 106;
-	min-height: 583px;
+	min-height: 446px;
 	background-color: #EFF1F2;
 }
 
-#u979_align_to_page
+#u979_position_content
 {
-	margin-left: auto;
-	margin-right: auto;
-	width: 1020px;
-	position: relative;
-	left: -100px;
 	padding-top: 18px;
-	padding-bottom: 137px;
 }
 
 #u555-4
@@ -1326,9 +1320,7 @@
 	border-radius: 200px;
 	margin-left: 25px;
 	position: relative;
-	background: transparent url("../images/002-ieu549-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/002.jpg") no-repeat center center;
-	background-color: transparent;
+	background: transparent url("../images/002.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1502,7 +1494,7 @@
 #u979-bw
 {
 	z-index: 106;
-	min-height: 583px;
+	min-height: 446px;
 }
 
 #features
@@ -1611,7 +1603,7 @@
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	margin-left: 20px;
-	margin-top: 212px;
+	margin-top: 349px;
 	position: relative;
 }
 
@@ -2462,7 +2454,7 @@
 	box-shadow: inset 0px 0px 150px #FFFFFF, inset 0px 0px 150px #FFFFFF;
 }
 
-#u362_align_to_page,#u174_align_to_page
+#u362_align_to_page,#u979_align_to_page,#u174_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
