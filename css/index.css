@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #FEE901;
+	color: #0000F1;
+	background-color: #24DBB0;
 }
 
 .html
@@ -1131,7 +1131,7 @@
 {
 	z-index: 180;
 	height: 15px;
-	background-color: #93278F;
+	background-color: #0060B8;
 	opacity: 0.75;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
 	filter: alpha(opacity=75);
@@ -1180,7 +1180,7 @@
 {
 	z-index: 181;
 	height: 15px;
-	background-color: #93278F;
+	background-color: #0060B8;
 	opacity: 0.75;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
 	filter: alpha(opacity=75);
@@ -2314,7 +2314,7 @@
 {
 	z-index: 24;
 	height: 15px;
-	background-color: #93278F;
+	background-color: #0060B8;
 	opacity: 0.75;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
 	filter: alpha(opacity=75);
