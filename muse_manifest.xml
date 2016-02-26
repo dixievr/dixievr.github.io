@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456502018668">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456503376099">
   <folder name="assets">
     <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
     <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="248950320"/>
-    <file name="index.css" crc="4415896" ref="index"/>
+    <file name="index.css" crc="4178194571" ref="index"/>
     <file name="iefonts_index.css" crc="4200577912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -55,6 +55,14 @@
     <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
     <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
     <file name="screenshot 2016-01-21 at 113223 copy-u305-fr.jpg" crc="4132444024" ref="index"/>
+    <file name="email white.png" crc="3969897413" seo="true" ref="index"/>
+    <file name="email white_2x.png" crc="4121906989" seo="true" ref="index"/>
+    <file name="facebook white.png" crc="3915872431" seo="true" ref="index"/>
+    <file name="facebook white_2x.png" crc="4256602744" seo="true" ref="index"/>
+    <file name="linkedin white.png" crc="411158826" seo="true" ref="index"/>
+    <file name="linkedin white_2x.png" crc="294042000" seo="true" ref="index"/>
+    <file name="vimeo-xxl.png" crc="180125723" seo="true" ref="index"/>
+    <file name="vimeo-xxl_2x.png" crc="368317541" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="50569933" seo="true" mt="1456502015060" redirect="true"/>
+  <file name="index.html" crc="233127125" seo="true" mt="1456503367004" redirect="true"/>
 </manifest>
