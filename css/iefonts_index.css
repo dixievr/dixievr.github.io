@@ -33,19 +33,39 @@
 	font-family: dosis-n3, sans-serif;
 }
 
-#u525-4,#u555-4,#u320-4,#u302-4
+#u525-4,#u984-4
 {
 	font-family: dosis-n5, sans-serif;
 }
 
-#u533-10,#u552-4,#u554-4,#u550-4,#u548-4,#u570-4,#u571-4,#u546-4,#u545-4,#u328-4,#u327-13,#u330-4,#u331-9,#u323-4,#u324-13,#u303-8
+#u555-4,#u987-4
+{
+	font-family: dosis-n5, sans-serif;
+}
+
+#u610-4,#u320-4,#u1003-4
+{
+	font-family: dosis-n5, sans-serif;
+}
+
+#u533-8,#u552-4,#u554-4,#u550-4,#u548-4,#u570-4,#u571-4,#u546-4,#u545-4,#u328-4,#u327-13,#u330-4,#u331-9,#u323-4,#u324-13,#u303-8
 {
 	font-family: dosis-n4, sans-serif;
 }
 
-#u405-4,#u306-4:hover p,#u306-4
+#u405-4,#u306-4:hover p
 {
 	font-family: questrial-n4, sans-serif;
+}
+
+#u306-4:active p,#u306-4
+{
+	font-family: questrial-n4, sans-serif;
+}
+
+#u302-4,#u1007-4
+{
+	font-family: dosis-n5, sans-serif;
 }
 
 #u367-6,#u283-4

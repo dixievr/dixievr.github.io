@@ -1,8 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456438275845">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x" timestamp="1456498020463">
+  <folder name="assets">
+    <file name="pavillon01.png" crc="222600608" seo="true" mt="1453375199000"/>
+    <file name="v0.05.mp4" crc="4244550468" seo="true" mt="1448615685000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4189438098"/>
-    <file name="index.css" crc="514442061" ref="index"/>
-    <file name="iefonts_index.css" crc="76603761" ref="index"/>
+    <file name="site_global.css" crc="248950320"/>
+    <file name="index.css" crc="4123729553" ref="index"/>
+    <file name="iefonts_index.css" crc="3953543034" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -13,9 +17,12 @@
     <file name="jquery.watch.js" crc="3999102769" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="slider.jpg" crc="289418327" ref="index"/>
     <file name="102_4643fb 2-u544-fr.jpg" crc="4057905693" ref="index"/>
     <file name="041-u553-fr.jpg" crc="3965459482" ref="index"/>
     <file name="neuromancer-film-1200x630-c-u549-fr.jpg" crc="496641256" ref="index"/>
@@ -23,11 +30,12 @@
     <file name="neuromancer-film-1200x630-c-ieu332-fr.png" crc="4184612337" ref="index"/>
     <file name="neuromancer-film-1200x630-c.jpg" crc="490148382" ref="index"/>
     <file name="102_4643fb 2-u322-fr.jpg" crc="4005067235" ref="index"/>
-    <file name="separator.jpg" crc="194132142" ref="index"/>
-    <file name="pavillon01.jpg" crc="368691727" ref="index"/>
-    <file name="screenshot 2015-11-30 at 152319.jpg" crc="3781213147" ref="index"/>
     <file name="screenshot 2016-01-21 at 113223 copy.jpg" crc="4132444024" ref="index"/>
     <file name="favicon.ico" crc="45662816" ref="index"/>
+    <file name="006-u362-fr.png" crc="3848304746" ref="index"/>
+    <file name="002.jpg" crc="3765058841" ref="index"/>
+    <file name="capt_0007_02.jpg" crc="4265489448" ref="index"/>
+    <file name="screenshot 2015-11-30 at 152319 copy-u174-fr.png" crc="3933227586" ref="index"/>
   </folder>
-  <file name="index.html" crc="4029386772" seo="true" mt="1456438108978" redirect="true"/>
+  <file name="index.html" crc="161491963" seo="true" mt="1456498008839" redirect="true"/>
 </manifest>
