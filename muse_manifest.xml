@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456573606585">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456573986208">
   <folder name="assets">
     <file name="videolaunch.png" crc="4185696504" seo="true" mt="1456524472000"/>
     <file name="dixievr.mp4" crc="3798338288" seo="true" mt="1456526067000"/>
@@ -144,5 +144,5 @@
     <file name="capt_0006_03_aa-u1547-fr.jpg" crc="4088924396" ref="index"/>
     <file name="002-u1553-fr.jpg" crc="4035921860" ref="index"/>
   </folder>
-  <file name="index.html" crc="90523628" seo="true" mt="1456573586946" redirect="true"/>
+  <file name="index.html" crc="4265595132" seo="true" mt="1456573961054" redirect="true"/>
 </manifest>
