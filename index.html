@@ -11,8 +11,8 @@
   <link rel="shortcut icon" href="images/dixievr-favicon.ico?3850738057"/>
   <title>DixieVR</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?4230502334"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4176379165" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?240736304"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3819417833" id="pagesheet"/>
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?4018697793"/>
   <![endif]-->
@@ -23,7 +23,7 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/questrial:n4:all;dosis:n2,n5,n4:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/dosis:n2,n5,n4:all;questrial:n4:all.js" type="text/javascript">\x3C/script>');
 </script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
@@ -348,10 +348,10 @@ var __adobewebfontsappname__ = "muse";
      <div class="browser_width grpelem" id="u304-bw">
       <div class="rgba-background" id="u304"><!-- simple frame --></div>
      </div>
+     <div class="museBGSize grpelem" id="u305"><!-- simple frame --></div>
      <a class="nonblock nontext Button anim_swing clearfix grpelem" id="buttonu1006" href="index.html#top"><!-- container box --><div class="clearfix grpelem" id="u1007-4"><!-- content --><p>&gt; TOP</p></div></a>
      <a class="anchor_item grpelem" id="contact"></a>
     </div>
-    <div class="museBGSize mse_pre_init" id="u305"><!-- simple frame --></div>
     <div class="verticalspacer"></div>
     <div class="browser_width colelem" id="u1435-bw">
      <div class="shadow museBGSize rgba-background" id="u1435"><!-- group -->
@@ -437,17 +437,16 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u362').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-100.05]},{"speed":[0,0],"in":[-100.05,Infinity]}]);/* scroll effect */
+$('#u362').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-100.05],"speed":[0,0]},{"in":[-100.05,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
-$('#u534').registerPositionScrollEffect([{"speed":[0.5,1],"in":[-Infinity,844.35]},{"speed":[0,1],"in":[844.35,Infinity]}]);/* scroll effect */
-$('#u573').registerPositionScrollEffect([{"speed":[-0.5,1],"in":[-Infinity,844.35]},{"speed":[0,1],"in":[844.35,Infinity]}]);/* scroll effect */
-$('#u1298').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2014]},{"speed":[0,0],"in":[2014,Infinity]}]);/* scroll effect */
+$('#u534').registerPositionScrollEffect([{"in":[-Infinity,844.35],"speed":[0.25,1]},{"in":[844.35,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#u573').registerPositionScrollEffect([{"in":[-Infinity,844.35],"speed":[-0.25,1]},{"in":[844.35,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#u1298').registerBackgroundPositionScrollEffect([{"in":[-Infinity,2014],"speed":[0,0]},{"in":[2014,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.initWidget('#pamphletu964', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:10000,transitionStyle:'fading',transitionDuration:1200,hideAllContentsFirst:false,shuffle:true,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu964 */
-$('#u325').registerPositionScrollEffect([{"speed":[0.25,1],"in":[-Infinity,3885.6]},{"speed":[0,1],"in":[3885.6,Infinity]}]);/* scroll effect */
-$('#u321').registerPositionScrollEffect([{"speed":[-0.25,1],"in":[-Infinity,3881.55]},{"speed":[0,1],"in":[3881.55,Infinity]}]);/* scroll effect */
-$('#u305').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,4420.8]},{"speed":[0,1],"in":[4420.8,Infinity]}]);/* scroll effect */
+$('#u325').registerPositionScrollEffect([{"in":[-Infinity,3885.6],"speed":[0.2,1]},{"in":[3885.6,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#u321').registerPositionScrollEffect([{"in":[-Infinity,3881.55],"speed":[-0.2,1]},{"in":[3881.55,Infinity],"speed":[0,1]}]);/* scroll effect */
 $('#u198-4').registerOpacityScrollEffect([{"in":[-Infinity,4684],"fade":80,"opacity":0},{"in":[4684,4684],"opacity":100},{"in":[4684,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
-$('#u1435').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,5155]},{"speed":[0,0],"in":[5155,Infinity]}]);/* scroll effect */
+$('#u1435').registerBackgroundPositionScrollEffect([{"in":[-Infinity,5155],"speed":[0,0]},{"in":[5155,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
