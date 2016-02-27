@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456568855197">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456570453114">
   <folder name="assets">
     <file name="videolaunch.png" crc="4185696504" seo="true" mt="1456524472000"/>
     <file name="dixievr.mp4" crc="3798338288" seo="true" mt="1456526067000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4230502334"/>
-    <file name="index.css" crc="140099109" ref="index"/>
+    <file name="index.css" crc="208118720" ref="index"/>
     <file name="iefonts_index.css" crc="71624087" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -43,7 +43,7 @@
     <file name="on_rollover-u1093-on-r-fr_2x.png" crc="148326407" ref="index"/>
     <file name="on_mousedown-u1093-on-m-fr.png" crc="4240592867" ref="index"/>
     <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4184688182" ref="index"/>
-    <file name="002-u534-fr.jpg" crc="4095797571" ref="index"/>
+    <file name="002-u534-fr.jpg" crc="3765058841" ref="index"/>
     <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
     <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
     <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
@@ -79,6 +79,52 @@
     <file name="capt_0002_07.jpg" crc="4011399178" ref="index"/>
     <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="3976435102" ref="index"/>
+    <file name="004-u971-fr.png" crc="180204658" ref="index"/>
+    <file name="004-u971-fr_2x.png" crc="72201599" ref="index"/>
+    <file name="004-u971-r-fr.jpg" crc="37574468" ref="index"/>
+    <file name="004-u971-r-fr_2x.jpg" crc="255212625" ref="index"/>
+    <file name="003-u1474-fr.png" crc="426748804" ref="index"/>
+    <file name="0032.jpg" crc="290686089" ref="index"/>
+    <file name="003_2x2.jpg" crc="4061272254" ref="index"/>
+    <file name="001-u1482-fr.png" crc="3946689925" ref="index"/>
+    <file name="0012.jpg" crc="4014085273" ref="index"/>
+    <file name="001_2x2.jpg" crc="4275998013" ref="index"/>
+    <file name="006-u1490-fr.png" crc="3984739377" ref="index"/>
+    <file name="006.jpg" crc="328979429" ref="index"/>
+    <file name="006_2x.jpg" crc="4233662387" ref="index"/>
+    <file name="005-u1498-fr.png" crc="310724497" ref="index"/>
+    <file name="005-u1498-fr_2x.png" crc="4074047242" ref="index"/>
+    <file name="005.jpg" crc="4196199601" ref="index"/>
+    <file name="005_2x.jpg" crc="85726998" ref="index"/>
+    <file name="007-u1506-fr.png" crc="149013666" ref="index"/>
+    <file name="007.jpg" crc="3917156584" ref="index"/>
+    <file name="007_2x.jpg" crc="4013594632" ref="index"/>
+    <file name="008-u1514-fr.png" crc="3816384044" ref="index"/>
+    <file name="008-u1514-fr_2x.png" crc="448358417" ref="index"/>
+    <file name="008.jpg" crc="3802474801" ref="index"/>
+    <file name="008_2x.jpg" crc="521624977" ref="index"/>
+    <file name="009-u1522-fr.png" crc="4175261753" ref="index"/>
+    <file name="009.jpg" crc="4109302348" ref="index"/>
+    <file name="009_2x.jpg" crc="4264654898" ref="index"/>
+    <file name="capt_0005_04-u1530-fr.png" crc="406881221" ref="index"/>
+    <file name="capt_0005_04.jpg" crc="3957606582" ref="index"/>
+    <file name="capt_0005_04_2x.jpg" crc="378559948" ref="index"/>
+    <file name="capt_0007_02-u1538-fr.png" crc="139389393" ref="index"/>
+    <file name="capt_0007_02.jpg" crc="349781278" ref="index"/>
+    <file name="capt_0007_02_2x.jpg" crc="3947115145" ref="index"/>
+    <file name="capt_0006_03_aa-u1546-fr.png" crc="3779192380" ref="index"/>
+    <file name="capt_0006_03_aa-u1546-r-fr.jpg" crc="3829554385" ref="index"/>
+    <file name="capt_0009_background copy-u1548-fr.png" crc="247013624" ref="index"/>
+    <file name="capt_0009_background copy-u1548-fr_2x.png" crc="4180955262" ref="index"/>
+    <file name="capt_0009_background copy-u1548-r-fr.jpg" crc="283075272" ref="index"/>
+    <file name="capt_0009_background copy-u1548-r-fr_2x.jpg" crc="302696701" ref="index"/>
+    <file name="capt_0002_07-u1550-fr.png" crc="4288247184" ref="index"/>
+    <file name="capt_0002_07-u1550-fr_2x.png" crc="336767466" ref="index"/>
+    <file name="capt_0002_07-u1550-r-fr.jpg" crc="91244681" ref="index"/>
+    <file name="capt_0002_07-u1550-r-fr_2x.jpg" crc="495271191" ref="index"/>
+    <file name="002-u1552-fr.png" crc="197948784" ref="index"/>
+    <file name="002-u1552-r-fr.jpg" crc="269132667" ref="index"/>
+    <file name="0042.jpg" crc="4082126336" ref="index"/>
   </folder>
-  <file name="index.html" crc="3916327464" seo="true" mt="1456568738736" redirect="true"/>
+  <file name="index.html" crc="510533534" seo="true" mt="1456570449422" redirect="true"/>
 </manifest>
