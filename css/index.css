@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #4D8217;
+	color: #0000F6;
+	background-color: #F5AD6E;
 }
 
 .html
@@ -37,7 +37,7 @@
 
 #u526
 {
-	z-index: 233;
+	z-index: 232;
 	width: 250px;
 	border-style: none;
 	border-color: transparent;
@@ -51,7 +51,7 @@
 
 #u527
 {
-	z-index: 234;
+	z-index: 233;
 	width: 100px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -61,7 +61,7 @@
 
 #u529
 {
-	z-index: 235;
+	z-index: 234;
 	width: 150px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -72,7 +72,7 @@
 
 #u528
 {
-	z-index: 236;
+	z-index: 235;
 	width: 250px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -82,7 +82,7 @@
 
 #u362
 {
-	z-index: 247;
+	z-index: 246;
 	min-height: 800px;
 	background: #3F3F3F url("../images/capt_0006_03_aa-u362-fr.png") no-repeat center center;
 	background-color: rgba(0,0,0,0.75);
@@ -110,7 +110,7 @@
 
 #u1137
 {
-	z-index: 287;
+	z-index: 286;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -155,7 +155,7 @@
 
 #u1143
 {
-	z-index: 289;
+	z-index: 288;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -201,7 +201,7 @@
 
 #u1149
 {
-	z-index: 291;
+	z-index: 290;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -247,7 +247,7 @@
 
 #u1155
 {
-	z-index: 293;
+	z-index: 292;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -301,7 +301,7 @@
 
 #u1087
 {
-	z-index: 284;
+	z-index: 283;
 	width: 980px;
 	background-color: transparent;
 	left: 120px;
@@ -311,7 +311,7 @@
 
 #u367-4
 {
-	z-index: 248;
+	z-index: 247;
 	width: 980px;
 	min-height: 14px;
 	background-color: transparent;
@@ -330,7 +330,7 @@
 
 #menuu368
 {
-	z-index: 252;
+	z-index: 251;
 	width: 885px;
 	border-style: none;
 	border-color: transparent;
@@ -821,13 +821,13 @@
 
 #u362-bw
 {
-	z-index: 247;
+	z-index: 246;
 	min-height: 800px;
 }
 
 #u1093
 {
-	z-index: 286;
+	z-index: 285;
 	width: 64px;
 	height: 65px;
 	position: relative;
@@ -835,6 +835,12 @@
 	margin-top: 396px;
 	left: 187px;
 	background: transparent url("../images/off.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.on
+{
+	background: transparent url("../images/on-u1093-on-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -854,9 +860,13 @@
 	background-size: contain;
 }
 
-#u1093.on
+#u1093.off:active
 {
-	background: transparent url("../images/on-u1093-on-fr.png") no-repeat center center;
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 396px -10000px 0px 0px;
+	background: transparent url("../images/off_mousedown.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -867,16 +877,6 @@
 	min-height: 0px;
 	margin: 396px -10000px 0px 0px;
 	background: transparent url("../images/on_rollover-u1093-on-r-fr.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u1093.off:active
-{
-	width: 64px;
-	height: 65px;
-	min-height: 0px;
-	margin: 396px -10000px 0px 0px;
-	background: transparent url("../images/off_mousedown.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -927,7 +927,7 @@
 
 #u1182
 {
-	z-index: 296;
+	z-index: 295;
 	height: 60px;
 	width: 120px;
 	vertical-align: top;
@@ -968,7 +968,7 @@
 
 #u606
 {
-	z-index: 243;
+	z-index: 242;
 	width: 250px;
 	border-style: none;
 	border-color: transparent;
@@ -981,7 +981,7 @@
 
 #u609
 {
-	z-index: 244;
+	z-index: 243;
 	width: 100px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -991,7 +991,7 @@
 
 #u608
 {
-	z-index: 245;
+	z-index: 244;
 	width: 150px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -1002,7 +1002,7 @@
 
 #u607
 {
-	z-index: 246;
+	z-index: 245;
 	width: 250px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -1026,7 +1026,7 @@
 
 #u525-4
 {
-	z-index: 229;
+	z-index: 228;
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
@@ -1044,7 +1044,7 @@
 
 #buttonu983
 {
-	z-index: 238;
+	z-index: 237;
 	width: 80px;
 	border-color: #787878;
 	background-color: transparent;
@@ -1073,7 +1073,7 @@
 
 #u984-4
 {
-	z-index: 239;
+	z-index: 238;
 	width: 55px;
 	min-height: 23px;
 	background-color: transparent;
@@ -1130,7 +1130,7 @@
 
 #u534
 {
-	z-index: 227;
+	z-index: 226;
 	width: 910px;
 	height: 194px;
 	border-width: 15px;
@@ -1145,7 +1145,7 @@
 
 #u535
 {
-	z-index: 225;
+	z-index: 224;
 	height: 15px;
 	background-color: #FF3FC2;
 	background-color: rgba(255,0,174,0.75);
@@ -1157,14 +1157,14 @@
 
 #u535-bw
 {
-	z-index: 225;
+	z-index: 224;
 	margin-top: 116px;
 	height: 15px;
 }
 
 #u533-8
 {
-	z-index: 217;
+	z-index: 216;
 	width: 832px;
 	min-height: 121px;
 	background-color: transparent;
@@ -1181,7 +1181,7 @@
 
 #u573
 {
-	z-index: 228;
+	z-index: 227;
 	width: 910px;
 	height: 194px;
 	border-width: 15px;
@@ -1196,7 +1196,7 @@
 
 #u574
 {
-	z-index: 226;
+	z-index: 225;
 	height: 15px;
 	background-color: #FF3FC2;
 	background-color: rgba(255,0,174,0.75);
@@ -1208,14 +1208,14 @@
 
 #u574-bw
 {
-	z-index: 226;
+	z-index: 225;
 	margin-top: 114px;
 	height: 15px;
 }
 
 #u1305
 {
-	z-index: 213;
+	z-index: 212;
 	width: 250px;
 	border-style: none;
 	border-color: transparent;
@@ -1228,7 +1228,7 @@
 
 #u1307
 {
-	z-index: 214;
+	z-index: 213;
 	width: 100px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -1238,7 +1238,7 @@
 
 #u1308
 {
-	z-index: 215;
+	z-index: 214;
 	width: 150px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -1249,7 +1249,7 @@
 
 #u1306
 {
-	z-index: 216;
+	z-index: 215;
 	width: 250px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -1569,7 +1569,7 @@
 
 #buttonu986
 {
-	z-index: 207;
+	z-index: 206;
 	width: 627px;
 	border-color: #787878;
 	background-color: transparent;
@@ -1616,7 +1616,7 @@
 
 #u987-4
 {
-	z-index: 208;
+	z-index: 207;
 	width: 55px;
 	min-height: 23px;
 	background-color: transparent;
@@ -1664,7 +1664,7 @@
 
 #u1298
 {
-	z-index: 212;
+	z-index: 211;
 	height: 310px;
 	background: #FFFFFF url("../images/capt_0002_07.jpg") no-repeat center center;
 	background-size: cover;
@@ -1672,7 +1672,7 @@
 
 #u1298-bw
 {
-	z-index: 212;
+	z-index: 211;
 	margin-top: 487px;
 	height: 310px;
 }
@@ -3208,8 +3208,9 @@
 #u301
 {
 	z-index: 11;
-	min-height: 554px;
+	min-height: 553.9500000000007px;
 	background-color: #EFF1F2;
+	padding-bottom: 0px;
 }
 
 #u301_align_to_page
@@ -3220,7 +3221,7 @@
 	position: relative;
 	left: -100px;
 	padding-top: 18px;
-	padding-bottom: 28px;
+	padding-bottom: 45px;
 }
 
 #u302-4
@@ -3261,26 +3262,6 @@
 	color: #474747;
 }
 
-#pu952
-{
-	width: 0.01px;
-	left: 120px;
-	margin-top: 15px;
-	position: relative;
-}
-
-#u952
-{
-	z-index: 206;
-	width: 150px;
-	min-height: 79px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
 #u306-4
 {
 	z-index: 26;
@@ -3296,10 +3277,9 @@
 	font-size: 18px;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
+	left: 485px;
+	margin-top: 32px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 365px;
 	-pie-background: rgba(255,0,174,0.5);
 }
 
@@ -3311,7 +3291,7 @@
 	padding-bottom: 0px;
 	min-height: 34px;
 	width: 250px;
-	margin: 17px -10000px 0px 0px;
+	margin: 32px 0px 0px;
 	-pie-background: rgba(255,0,174,0.75);
 }
 
@@ -3323,7 +3303,7 @@
 	padding-bottom: 0px;
 	min-height: 34px;
 	width: 250px;
-	margin: 17px -10000px 0px 0px;
+	margin: 32px 0px 0px;
 	-pie-background: rgba(255,0,174,1);
 }
 
@@ -3344,7 +3324,7 @@
 #u301-bw
 {
 	z-index: 11;
-	min-height: 554px;
+	min-height: 553.9500000000007px;
 }
 
 #u304
