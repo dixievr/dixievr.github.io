@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F6;
-	background-color: #F5AD6E;
+	color: #0000F8;
+	background-color: #EE7D1D;
 }
 
 .html
@@ -1860,7 +1860,7 @@
 #u958
 {
 	z-index: 155;
-	min-height: 641px;
+	min-height: 645px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1869,7 +1869,7 @@
 #u958-bw
 {
 	z-index: 155;
-	min-height: 641px;
+	min-height: 645px;
 	margin-top: 15px;
 }
 
@@ -2969,6 +2969,71 @@
 	visibility: inherit;
 }
 
+#u329
+{
+	z-index: 84;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 368px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u332
+{
+	z-index: 99;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 28px;
+	position: relative;
+	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u330-4
+{
+	z-index: 95;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FF00AE;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 34px;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u331-10
+{
+	z-index: 85;
+	width: 285px;
+	min-height: 225px;
+	background-color: transparent;
+	line-height: 29px;
+	color: #474747;
+	text-align: center;
+	font-size: 17px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
+#pu325
+{
+	width: 0.01px;
+	padding-bottom: 540px;
+	margin-left: 21px;
+	margin-top: -537px;
+}
+
 #u325
 {
 	z-index: 64;
@@ -2978,7 +3043,7 @@
 	background-color: transparent;
 	padding-bottom: 0px;
 	position: fixed;
-	top: 4100px;
+	top: 4104px;
 	left: 21px;
 }
 
@@ -3028,63 +3093,6 @@
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
-	position: relative;
-}
-
-#u329
-{
-	z-index: 84;
-	width: 285px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 368px;
-	margin-top: 23px;
-	position: relative;
-}
-
-#u332
-{
-	z-index: 99;
-	width: 230px;
-	height: 230px;
-	border-radius: 200px;
-	margin-left: 28px;
-	position: relative;
-	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u330-4
-{
-	z-index: 95;
-	width: 285px;
-	min-height: 41px;
-	background-color: transparent;
-	color: #FF00AE;
-	text-align: center;
-	text-transform: uppercase;
-	line-height: 34px;
-	font-size: 20px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 29px;
-	position: relative;
-}
-
-#u331-10
-{
-	z-index: 85;
-	width: 285px;
-	min-height: 225px;
-	background-color: transparent;
-	line-height: 29px;
-	color: #474747;
-	text-align: center;
-	font-size: 17px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 12px;
 	position: relative;
 }
 
@@ -3163,7 +3171,7 @@
 	background-color: transparent;
 	padding-bottom: 0px;
 	margin-left: 385px;
-	margin-top: 30px;
+	margin-top: 26px;
 	position: relative;
 }
 
