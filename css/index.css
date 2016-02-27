@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #67A3C0;
+	color: #0000EF;
+	background-color: #DD9346;
 }
 
 .html
@@ -838,12 +838,6 @@
 	background-size: contain;
 }
 
-#u1093.unavailable
-{
-	background: transparent url("../images/unavailable.png") no-repeat center center;
-	background-size: contain;
-}
-
 #u1093.off:hover
 {
 	width: 64px;
@@ -851,6 +845,12 @@
 	min-height: 0px;
 	margin: 396px -10000px 0px 0px;
 	background: transparent url("../images/off_rollover.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.unavailable
+{
+	background: transparent url("../images/unavailable.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2006,7 +2006,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/0032.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/003-u1474-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2018,14 +2018,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/0032.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/003-u1474-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1474
+{
+	background-image: url("../images/003-u1474-fr_2x.png");
+}
+
 .hidpi #u1474:hover,.hidpi #u1474.PamphletThumbSelected
 {
-	background-image: url("../images/003_2x2.jpg");
+	background-image: url("../images/003-u1474-r-fr_2x.jpg");
 }
 
 #u1482
@@ -2049,7 +2054,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/0012.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/001-u1482-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2061,14 +2066,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/0012.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/001-u1482-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1482
+{
+	background-image: url("../images/001-u1482-fr_2x.png");
+}
+
 .hidpi #u1482:hover,.hidpi #u1482.PamphletThumbSelected
 {
-	background-image: url("../images/001_2x2.jpg");
+	background-image: url("../images/001-u1482-r-fr_2x.jpg");
 }
 
 #u1490
@@ -2092,7 +2102,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/006.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/006-u1490-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2104,14 +2114,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/006.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/006-u1490-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1490
+{
+	background-image: url("../images/006-u1490-fr_2x.png");
+}
+
 .hidpi #u1490:hover,.hidpi #u1490.PamphletThumbSelected
 {
-	background-image: url("../images/006_2x.jpg");
+	background-image: url("../images/006-u1490-r-fr_2x.jpg");
 }
 
 #u1498
@@ -2135,7 +2150,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/005.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/005-u1498-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2147,7 +2162,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/005.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/005-u1498-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2159,7 +2174,7 @@
 
 .hidpi #u1498:hover,.hidpi #u1498.PamphletThumbSelected
 {
-	background-image: url("../images/005_2x.jpg");
+	background-image: url("../images/005-u1498-r-fr_2x.jpg");
 }
 
 #u1506
@@ -2183,7 +2198,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/007.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/007-u1506-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2195,14 +2210,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/007.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/007-u1506-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1506
+{
+	background-image: url("../images/007-u1506-fr_2x.png");
+}
+
 .hidpi #u1506:hover,.hidpi #u1506.PamphletThumbSelected
 {
-	background-image: url("../images/007_2x.jpg");
+	background-image: url("../images/007-u1506-r-fr_2x.jpg");
 }
 
 #u1514
@@ -2226,7 +2246,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/008.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/008-u1514-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2238,7 +2258,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/008.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/008-u1514-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2250,7 +2270,7 @@
 
 .hidpi #u1514:hover,.hidpi #u1514.PamphletThumbSelected
 {
-	background-image: url("../images/008_2x.jpg");
+	background-image: url("../images/008-u1514-r-fr_2x.jpg");
 }
 
 #u1522
@@ -2274,7 +2294,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/009.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/009-u1522-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2286,14 +2306,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/009.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/009-u1522-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1522
+{
+	background-image: url("../images/009-u1522-fr_2x.png");
+}
+
 .hidpi #u1522:hover,.hidpi #u1522.PamphletThumbSelected
 {
-	background-image: url("../images/009_2x.jpg");
+	background-image: url("../images/009-u1522-r-fr_2x.jpg");
 }
 
 #u1530
@@ -2317,7 +2342,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/capt_0005_04.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0005_04-u1530-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2329,14 +2354,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/capt_0005_04.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0005_04-u1530-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1530
+{
+	background-image: url("../images/capt_0005_04-u1530-fr_2x.png");
+}
+
 .hidpi #u1530:hover,.hidpi #u1530.PamphletThumbSelected
 {
-	background-image: url("../images/capt_0005_04_2x.jpg");
+	background-image: url("../images/capt_0005_04-u1530-r-fr_2x.jpg");
 }
 
 #u1538
@@ -2360,7 +2390,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/capt_0007_02.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0007_02-u1538-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -2372,14 +2402,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/capt_0007_02.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0007_02-u1538-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
+.hidpi #u1538
+{
+	background-image: url("../images/capt_0007_02-u1538-fr_2x.png");
+}
+
 .hidpi #u1538:hover,.hidpi #u1538.PamphletThumbSelected
 {
-	background-image: url("../images/capt_0007_02_2x.jpg");
+	background-image: url("../images/capt_0007_02-u1538-r-fr_2x.jpg");
 }
 
 #u1546
@@ -2590,7 +2625,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/0032.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2604,7 +2639,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/0012.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2618,7 +2653,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/006.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2632,7 +2667,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/005.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2646,7 +2681,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/007.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2660,7 +2695,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/008.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2674,7 +2709,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/009.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2688,7 +2723,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0005_04.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2702,7 +2737,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0007_02.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2716,7 +2751,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0006_03_aa-u1547-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2730,7 +2765,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0009_background%20copy.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2744,7 +2779,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/capt_0002_07.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2758,7 +2793,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0042.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/002-u1553-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
