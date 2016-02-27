@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456566255175">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1456568855197">
   <folder name="assets">
     <file name="videolaunch.png" crc="4185696504" seo="true" mt="1456524472000"/>
     <file name="dixievr.mp4" crc="3798338288" seo="true" mt="1456526067000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4230502334"/>
-    <file name="index.css" crc="3895695001" ref="index"/>
-    <file name="iefonts_index.css" crc="4043472573" ref="index"/>
+    <file name="index.css" crc="140099109" ref="index"/>
+    <file name="iefonts_index.css" crc="71624087" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -80,5 +80,5 @@
     <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="3976435102" ref="index"/>
   </folder>
-  <file name="index.html" crc="163386675" seo="true" mt="1456566207979" redirect="true"/>
+  <file name="index.html" crc="3916327464" seo="true" mt="1456568738736" redirect="true"/>
 </manifest>
