@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001F;
-	background-color: #49C154;
+	color: #00000B;
+	background-color: #D57434;
 }
 
 .html
@@ -37,7 +37,7 @@
 
 #u526
 {
-	z-index: 235;
+	z-index: 243;
 	width: 250px;
 	border-style: none;
 	border-color: transparent;
@@ -51,7 +51,7 @@
 
 #u527
 {
-	z-index: 236;
+	z-index: 244;
 	width: 100px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -61,7 +61,7 @@
 
 #u529
 {
-	z-index: 237;
+	z-index: 245;
 	width: 150px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -72,7 +72,7 @@
 
 #u528
 {
-	z-index: 238;
+	z-index: 246;
 	width: 250px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -82,7 +82,7 @@
 
 #u362
 {
-	z-index: 253;
+	z-index: 261;
 	min-height: 800px;
 	background: #3F3F3F url("../images/capt_0006_03_aa-u362-fr.png") no-repeat center center;
 	background-color: rgba(0,0,0,0.75);
@@ -110,7 +110,7 @@
 
 #u1137
 {
-	z-index: 293;
+	z-index: 301;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -155,7 +155,7 @@
 
 #u1143
 {
-	z-index: 295;
+	z-index: 303;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -201,7 +201,7 @@
 
 #u1149
 {
-	z-index: 297;
+	z-index: 305;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -247,7 +247,7 @@
 
 #u1155
 {
-	z-index: 299;
+	z-index: 307;
 	width: 50px;
 	background-color: #FFBFEA;
 	background-color: rgba(255,0,174,0.25);
@@ -301,7 +301,7 @@
 
 #u1087
 {
-	z-index: 290;
+	z-index: 298;
 	width: 980px;
 	background-color: transparent;
 	left: 120px;
@@ -311,7 +311,7 @@
 
 #u367-4
 {
-	z-index: 254;
+	z-index: 262;
 	width: 980px;
 	min-height: 14px;
 	background-color: transparent;
@@ -330,7 +330,7 @@
 
 #menuu368
 {
-	z-index: 258;
+	z-index: 266;
 	width: 885px;
 	border-style: none;
 	border-color: transparent;
@@ -397,9 +397,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -493,9 +493,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -589,9 +589,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -685,9 +685,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -781,9 +781,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -821,13 +821,13 @@
 
 #u362-bw
 {
-	z-index: 253;
+	z-index: 261;
 	min-height: 800px;
 }
 
 #u1093
 {
-	z-index: 292;
+	z-index: 300;
 	width: 64px;
 	height: 65px;
 	position: relative;
@@ -835,6 +835,12 @@
 	margin-top: 396px;
 	left: 187px;
 	background: transparent url("../images/off.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.unavailable
+{
+	background: transparent url("../images/unavailable.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -848,25 +854,9 @@
 	background-size: contain;
 }
 
-#u1093.unavailable
-{
-	background: transparent url("../images/unavailable.png") no-repeat center center;
-	background-size: contain;
-}
-
 #u1093.on
 {
 	background: transparent url("../images/on-u1093-on-fr.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u1093.on:hover
-{
-	width: 64px;
-	height: 65px;
-	min-height: 0px;
-	margin: 396px -10000px 0px 0px;
-	background: transparent url("../images/on_rollover-u1093-on-r-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -877,6 +867,16 @@
 	min-height: 0px;
 	margin: 396px -10000px 0px 0px;
 	background: transparent url("../images/off_mousedown.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1093.on:hover
+{
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 396px -10000px 0px 0px;
+	background: transparent url("../images/on_rollover-u1093-on-r-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -927,7 +927,7 @@
 
 #u1182
 {
-	z-index: 302;
+	z-index: 310;
 	height: 60px;
 	width: 120px;
 	vertical-align: top;
@@ -968,7 +968,7 @@
 
 #u606
 {
-	z-index: 245;
+	z-index: 253;
 	width: 250px;
 	border-style: none;
 	border-color: transparent;
@@ -981,7 +981,7 @@
 
 #u609
 {
-	z-index: 246;
+	z-index: 254;
 	width: 100px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -991,7 +991,7 @@
 
 #u608
 {
-	z-index: 247;
+	z-index: 255;
 	width: 150px;
 	height: 1px;
 	background-color: #CCCCCC;
@@ -1002,18 +1002,11 @@
 
 #u607
 {
-	z-index: 248;
+	z-index: 256;
 	width: 250px;
 	height: 1px;
 	background-color: #CCCCCC;
 	margin-top: 9px;
-	position: relative;
-}
-
-#about
-{
-	margin-left: 21px;
-	margin-top: 12px;
 	position: relative;
 }
 
@@ -1026,14 +1019,14 @@
 
 #u525-4
 {
-	z-index: 231;
+	z-index: 239;
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
+	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -1044,7 +1037,7 @@
 
 #buttonu983
 {
-	z-index: 240;
+	z-index: 248;
 	width: 80px;
 	border-color: #787878;
 	background-color: transparent;
@@ -1073,7 +1066,7 @@
 
 #u984-4
 {
-	z-index: 241;
+	z-index: 249;
 	width: 55px;
 	min-height: 23px;
 	background-color: transparent;
@@ -1130,7 +1123,7 @@
 
 #u534
 {
-	z-index: 230;
+	z-index: 238;
 	width: 910px;
 	height: 194px;
 	border-width: 15px;
@@ -1145,7 +1138,7 @@
 
 #u535
 {
-	z-index: 229;
+	z-index: 237;
 	height: 15px;
 	background-color: #FF3FC2;
 	background-color: rgba(255,0,174,0.75);
@@ -1157,7 +1150,7 @@
 
 #u535-bw
 {
-	z-index: 229;
+	z-index: 237;
 	margin-top: 116px;
 	height: 15px;
 }
@@ -1169,9 +1162,8 @@
 	min-height: 121px;
 	background-color: transparent;
 	color: #474747;
-	text-align: left;
-	font-size: 17px;
 	line-height: 29px;
+	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-left: 95px;
@@ -1179,31 +1171,67 @@
 	position: relative;
 }
 
+#u533-7
+{
+	text-align: center;
+}
+
+#u533-2,#u533-4,#u533-6,#u533-9,#u533-11
+{
+	text-align: left;
+}
+
 #pu1586
 {
 	width: 0.01px;
-	margin-left: 180px;
+	margin-left: 159px;
 	margin-top: 20px;
 }
 
 #u1586
 {
-	z-index: 249;
+	z-index: 257;
 	width: 181px;
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 }
 
+#u1597-8
+{
+	z-index: 229;
+	width: 246px;
+	min-height: 64px;
+	background-color: transparent;
+	color: #323232;
+	text-align: center;
+	text-transform: none;
+	line-height: 29px;
+	font-size: 17px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 36px;
+	left: 228px;
+}
+
+#u1597-2
+{
+	font-family: dosis, sans-serif;
+	font-weight: 500;
+}
+
 #u1592
 {
-	z-index: 251;
+	z-index: 259;
 	width: 125px;
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 535px;
+	left: 555px;
 }
 
 #u1305
@@ -1215,7 +1243,6 @@
 	background-color: transparent;
 	padding-bottom: 0px;
 	margin-left: 385px;
-	margin-top: 47px;
 	position: relative;
 }
 
@@ -1250,6 +1277,13 @@
 	position: relative;
 }
 
+#pu979
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 13px;
+}
+
 #u979
 {
 	z-index: 160;
@@ -1275,9 +1309,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
+	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	left: 120px;
@@ -1346,9 +1380,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
+	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1408,9 +1442,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
+	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1472,9 +1506,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
+	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 13px;
@@ -1536,9 +1570,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
+	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1549,7 +1583,6 @@
 {
 	z-index: 160;
 	min-height: 786px;
-	margin-top: 1px;
 }
 
 #features
@@ -1679,7 +1712,7 @@
 	background-color: transparent;
 	padding-bottom: 0px;
 	margin-left: 385px;
-	margin-top: 21px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -1718,7 +1751,7 @@
 {
 	width: 0.01px;
 	margin-left: 8px;
-	margin-top: 10px;
+	margin-top: 11px;
 }
 
 #u610-4
@@ -1728,9 +1761,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
+	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -2805,7 +2838,7 @@
 	background-color: transparent;
 	padding-bottom: 0px;
 	margin-left: 385px;
-	margin-top: 20px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -2840,10 +2873,10 @@
 	position: relative;
 }
 
-#team
+#about,#team
 {
 	margin-left: 21px;
-	margin-top: 11px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -2860,14 +2893,13 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
+	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 	left: 13px;
 }
 
@@ -3010,9 +3042,9 @@
 	min-height: 225px;
 	background-color: transparent;
 	color: #474747;
+	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -3024,7 +3056,7 @@
 	width: 0.01px;
 	padding-bottom: 540px;
 	margin-left: 21px;
-	margin-top: -537px;
+	margin-top: -491px;
 }
 
 #u325
@@ -3081,8 +3113,8 @@
 	min-height: 225px;
 	background-color: transparent;
 	text-align: center;
-	font-size: 17px;
 	line-height: 29px;
+	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -3142,8 +3174,8 @@
 	min-height: 225px;
 	background-color: transparent;
 	text-align: center;
-	font-size: 17px;
 	line-height: 29px;
+	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -3199,7 +3231,7 @@
 	position: relative;
 }
 
-#pu979,#pu301
+#pu301
 {
 	width: 0.01px;
 	margin-left: -100px;
@@ -3232,9 +3264,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
+	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	left: 121px;
@@ -3248,9 +3280,9 @@
 	min-height: 93px;
 	background-color: transparent;
 	color: #474747;
+	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	left: 181px;
@@ -3552,9 +3584,9 @@
 	border-style: none;
 	background-color: transparent;
 	color: #000000;
-	line-height: 14px;
 	text-align: center;
 	letter-spacing: 2px;
+	line-height: 14px;
 	font-size: 12px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
