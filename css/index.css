@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #D57434;
+	color: #00001C;
+	background-color: #147945;
 }
 
 .html
@@ -316,11 +316,11 @@
 	min-height: 14px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 12px;
 	text-align: center;
 	letter-spacing: 10px;
 	text-transform: uppercase;
 	font-size: 10px;
+	line-height: 12px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	left: 120px;
@@ -397,9 +397,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -493,9 +493,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -589,9 +589,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -685,9 +685,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -781,9 +781,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -1024,9 +1024,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -1205,8 +1205,8 @@
 	background-color: transparent;
 	color: #323232;
 	text-align: center;
-	text-transform: none;
 	line-height: 29px;
+	text-transform: none;
 	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1309,9 +1309,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	left: 120px;
@@ -1363,8 +1363,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
+	line-height: 34px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1380,9 +1380,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
-	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1425,8 +1425,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
+	line-height: 34px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1442,9 +1442,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
-	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1489,8 +1489,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
+	line-height: 34px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1506,9 +1506,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
-	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 13px;
@@ -1553,8 +1553,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
+	line-height: 34px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1570,9 +1570,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #474747;
-	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1761,9 +1761,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -2893,9 +2893,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -2994,71 +2994,6 @@
 	visibility: inherit;
 }
 
-#u329
-{
-	z-index: 84;
-	width: 285px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 368px;
-	margin-top: 19px;
-	position: relative;
-}
-
-#u332
-{
-	z-index: 99;
-	width: 230px;
-	height: 230px;
-	border-radius: 200px;
-	margin-left: 28px;
-	position: relative;
-	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u330-4
-{
-	z-index: 95;
-	width: 285px;
-	min-height: 41px;
-	background-color: transparent;
-	color: #FF00AE;
-	line-height: 34px;
-	text-align: center;
-	text-transform: uppercase;
-	font-size: 20px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 29px;
-	position: relative;
-}
-
-#u331-10
-{
-	z-index: 85;
-	width: 285px;
-	min-height: 225px;
-	background-color: transparent;
-	color: #474747;
-	line-height: 29px;
-	text-align: center;
-	font-size: 17px;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-	margin-top: 12px;
-	position: relative;
-}
-
-#pu325
-{
-	width: 0.01px;
-	padding-bottom: 540px;
-	margin-left: 21px;
-	margin-top: -491px;
-}
-
 #u325
 {
 	z-index: 64;
@@ -3096,8 +3031,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
+	line-height: 34px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -3121,6 +3056,63 @@
 	position: relative;
 }
 
+#u329
+{
+	z-index: 84;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 368px;
+	margin-top: 69px;
+	position: relative;
+}
+
+#u332
+{
+	z-index: 99;
+	width: 230px;
+	height: 230px;
+	border-radius: 200px;
+	margin-left: 28px;
+	position: relative;
+	background: transparent url("../images/neuromancer-film-1200x630-c-u332-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u330-4
+{
+	z-index: 95;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FF00AE;
+	text-align: center;
+	line-height: 34px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u331-10
+{
+	z-index: 85;
+	width: 285px;
+	min-height: 225px;
+	background-color: transparent;
+	color: #474747;
+	text-align: center;
+	font-size: 17px;
+	line-height: 29px;
+	font-family: dosis, sans-serif;
+	font-weight: 400;
+	margin-top: 12px;
+	position: relative;
+}
+
 #u321
 {
 	z-index: 44;
@@ -3129,7 +3121,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
-	top: 4130px;
+	top: 4134px;
 	left: 681px;
 }
 
@@ -3157,8 +3149,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
+	line-height: 34px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -3264,9 +3256,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	left: 121px;
@@ -3280,9 +3272,9 @@
 	min-height: 93px;
 	background-color: transparent;
 	color: #474747;
-	line-height: 29px;
 	text-align: center;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	left: 181px;
@@ -3304,8 +3296,8 @@
 	background-color: rgba(255,0,174,0.5);
 	padding-top: 11px;
 	color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
+	line-height: 22px;
 	text-transform: uppercase;
 	font-size: 18px;
 	font-family: questrial, sans-serif;
@@ -3586,8 +3578,8 @@
 	color: #000000;
 	text-align: center;
 	letter-spacing: 2px;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	margin-left: 20px;
