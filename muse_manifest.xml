@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1459861932576">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1459868051566">
   <folder name="assets">
     <file name="videolaunch.png" crc="4185696504" seo="true" mt="1456524472000"/>
-    <file name="dixievr.mp4" crc="3798338288" seo="true" mt="1456526279000"/>
+    <file name="dixievrweb.mp4" crc="4292667242" seo="true" mt="1459867303000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4256499750"/>
-    <file name="index.css" crc="3947451300" ref="index"/>
+    <file name="site_global.css" crc="4038326275"/>
+    <file name="index.css" crc="144715187" ref="index"/>
     <file name="iefonts_index.css" crc="4043866963" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -147,6 +147,26 @@
     <file name="logo-dk-ensapm-hd-04-black-03-500x347_2x.png" crc="4184255340" seo="true" ref="index"/>
     <file name="1290004351-10.gif" crc="266233590" seo="true" ref="index"/>
     <file name="1290004351-10_2x.gif" crc="266233590" seo="true" ref="index"/>
+    <file name="physic01-u1608-fr.png" crc="3887827241" ref="index"/>
+    <file name="physic01-u1608-fr_2x.png" crc="4162669103" ref="index"/>
+    <file name="physic01-u1608-r-fr.jpg" crc="3948779344" ref="index"/>
+    <file name="physic01-u1608-r-fr_2x.jpg" crc="4257905990" ref="index"/>
+    <file name="physic02-u1610-fr.png" crc="138799156" ref="index"/>
+    <file name="physic02-u1610-fr_2x.png" crc="3924421946" ref="index"/>
+    <file name="physic02-u1610-r-fr.jpg" crc="34078915" ref="index"/>
+    <file name="physic02-u1610-r-fr_2x.jpg" crc="3886404804" ref="index"/>
+    <file name="12947050_1274225259273938_187973179_o-u1624-fr.png" crc="58912975" ref="index"/>
+    <file name="12947050_1274225259273938_187973179_o-u1624-fr_2x.png" crc="407237567" ref="index"/>
+    <file name="12947050_1274225259273938_187973179_o-u1624-r-fr.jpg" crc="183206302" ref="index"/>
+    <file name="12947050_1274225259273938_187973179_o-u1624-r-fr_2x.jpg" crc="4225741947" ref="index"/>
+    <file name="12946893_1274225285940602_1175601577_o-u1626-fr.png" crc="4090023941" ref="index"/>
+    <file name="12946893_1274225285940602_1175601577_o-u1626-fr_2x.png" crc="4084463155" ref="index"/>
+    <file name="12946893_1274225285940602_1175601577_o-u1626-r-fr.jpg" crc="3839349444" ref="index"/>
+    <file name="12946893_1274225285940602_1175601577_o-u1626-r-fr_2x.jpg" crc="3936389375" ref="index"/>
+    <file name="physic01.jpg" crc="3865203978" ref="index"/>
+    <file name="physic02.jpg" crc="125487202" ref="index"/>
+    <file name="12947050_1274225259273938_187973179_o.jpg" crc="330600957" ref="index"/>
+    <file name="12946893_1274225285940602_1175601577_o.jpg" crc="3846150056" ref="index"/>
   </folder>
-  <file name="index.html" crc="481797950" seo="true" mt="1459861622196" redirect="true"/>
+  <file name="index.html" crc="3934790484" seo="true" mt="1459867971082" redirect="true"/>
 </manifest>
