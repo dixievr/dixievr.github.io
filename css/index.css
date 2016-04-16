@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #0418C3;
+	color: #0000E4;
+	background-color: #B2CF7B;
 }
 
 .html
@@ -316,10 +316,10 @@
 	min-height: 14px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 12px;
 	text-align: center;
 	letter-spacing: 10px;
 	text-transform: uppercase;
+	line-height: 12px;
 	font-size: 10px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
@@ -396,10 +396,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -492,10 +492,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -588,10 +588,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -684,10 +684,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -780,10 +780,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -1010,16 +1010,30 @@
 	position: relative;
 }
 
+#about
+{
+	margin-left: 21px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#pu525-4
+{
+	width: 0.01px;
+	margin-left: 8px;
+	margin-top: -4px;
+}
+
 #u525-4
 {
 	z-index: 247;
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 43px;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -1148,8 +1162,8 @@
 	min-height: 121px;
 	background-color: transparent;
 	color: #474747;
-	font-size: 17px;
 	line-height: 29px;
+	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-left: 95px;
@@ -1190,9 +1204,9 @@
 	min-height: 64px;
 	background-color: transparent;
 	color: #323232;
-	line-height: 29px;
 	text-align: center;
 	text-transform: none;
+	line-height: 29px;
 	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1294,10 +1308,10 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 43px;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	left: 120px;
@@ -1349,9 +1363,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1365,10 +1379,10 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #474747;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1411,9 +1425,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1427,10 +1441,10 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #474747;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1475,9 +1489,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1491,10 +1505,10 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #474747;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 13px;
@@ -1539,9 +1553,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1555,10 +1569,10 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #474747;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -1723,10 +1737,10 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 43px;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -3043,6 +3057,20 @@
 	cursor: pointer;
 }
 
+#pteam
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 14px;
+}
+
+#team
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
 #u333
 {
 	z-index: 100;
@@ -3051,9 +3079,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
-	margin-left: 385px;
-	margin-top: 20px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 364px;
 }
 
 #u335
@@ -3087,18 +3116,11 @@
 	position: relative;
 }
 
-#about,#team
-{
-	margin-left: 21px;
-	margin-top: 12px;
-	position: relative;
-}
-
-#pu525-4,#pu320-4
+#pu320-4
 {
 	width: 0.01px;
 	margin-left: 8px;
-	margin-top: -4px;
+	margin-top: 26px;
 }
 
 #u320-4
@@ -3107,10 +3129,10 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 43px;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -3239,9 +3261,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -3256,8 +3278,8 @@
 	min-height: 225px;
 	background-color: transparent;
 	text-align: center;
-	font-size: 17px;
 	line-height: 29px;
+	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -3295,9 +3317,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -3311,10 +3333,10 @@
 	width: 285px;
 	min-height: 225px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #474747;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -3357,9 +3379,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	line-height: 34px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 34px;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -3374,8 +3396,8 @@
 	min-height: 225px;
 	background-color: transparent;
 	text-align: center;
-	font-size: 17px;
 	line-height: 29px;
+	font-size: 17px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -3463,10 +3485,10 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 43px;
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 36px;
-	line-height: 43px;
 	font-family: dosis, sans-serif;
 	font-weight: 500;
 	left: 121px;
@@ -3479,10 +3501,10 @@
 	width: 858px;
 	min-height: 93px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #474747;
 	text-align: center;
 	font-size: 17px;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	left: 181px;
@@ -3504,9 +3526,9 @@
 	background-color: rgba(255,0,174,0.5);
 	padding-top: 11px;
 	color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
 	text-transform: uppercase;
+	line-height: 22px;
 	font-size: 18px;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -3771,9 +3793,9 @@
 	border-style: none;
 	background-color: transparent;
 	color: #000000;
-	line-height: 14px;
 	text-align: center;
 	letter-spacing: 2px;
+	line-height: 14px;
 	font-size: 12px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
