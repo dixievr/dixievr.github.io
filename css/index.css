@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #A02DB3;
+	color: #0000EC;
+	background-color: #0418C3;
 }
 
 .html
@@ -316,11 +316,11 @@
 	min-height: 14px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 12px;
 	text-align: center;
 	letter-spacing: 10px;
 	text-transform: uppercase;
 	font-size: 10px;
-	line-height: 12px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	left: 120px;
@@ -1098,19 +1098,11 @@
 	visibility: inherit;
 }
 
-#u534
+#pu535
 {
-	z-index: 246;
-	width: 910px;
-	height: 194px;
-	border-width: 15px;
-	border-style: solid;
-	border-color: #EFF1F2;
-	position: fixed;
-	top: 932px;
-	left: 41px;
-	background: transparent url("../images/002-u534-fr.jpg") no-repeat center center;
-	background-size: cover;
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 19px;
 }
 
 #u535
@@ -1128,8 +1120,25 @@
 #u535-bw
 {
 	z-index: 245;
-	margin-top: 116px;
+	margin-top: 97px;
 	height: 15px;
+}
+
+#u534
+{
+	z-index: 246;
+	width: 910px;
+	height: 194px;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #EFF1F2;
+	margin-bottom: -8px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -7px;
+	left: 141px;
+	background: transparent url("../images/002-u534-fr.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u533-13
@@ -1139,12 +1148,12 @@
 	min-height: 121px;
 	background-color: transparent;
 	color: #474747;
-	line-height: 29px;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-left: 95px;
-	margin-top: 114px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -1181,8 +1190,8 @@
 	min-height: 64px;
 	background-color: transparent;
 	color: #323232;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	text-transform: none;
 	font-size: 17px;
 	font-family: dosis, sans-serif;
@@ -1340,8 +1349,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1402,8 +1411,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1466,8 +1475,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -1530,8 +1539,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -3187,6 +3196,13 @@
 	visibility: inherit;
 }
 
+#pu325
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 61px;
+}
+
 #u325
 {
 	z-index: 64;
@@ -3195,9 +3211,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
-	position: fixed;
-	top: 4188px;
-	left: 21px;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u326
@@ -3224,8 +3239,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -3241,8 +3256,8 @@
 	min-height: 225px;
 	background-color: transparent;
 	text-align: center;
-	line-height: 29px;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -3256,9 +3271,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 368px;
-	margin-top: 61px;
 	position: relative;
+	margin-right: -10000px;
+	left: 348px;
 }
 
 #u332
@@ -3280,8 +3295,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -3313,9 +3328,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: fixed;
-	top: 4188px;
-	left: 681px;
+	position: relative;
+	margin-right: -10000px;
+	left: 660px;
 }
 
 #u322
@@ -3342,8 +3357,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #FF00AE;
-	text-align: center;
 	line-height: 34px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-family: dosis, sans-serif;
@@ -3359,8 +3374,8 @@
 	min-height: 225px;
 	background-color: transparent;
 	text-align: center;
-	line-height: 29px;
 	font-size: 17px;
+	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -3489,8 +3504,8 @@
 	background-color: rgba(255,0,174,0.5);
 	padding-top: 11px;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 22px;
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 18px;
 	font-family: questrial, sans-serif;
@@ -3742,13 +3757,6 @@
 	line-height: 45px;
 }
 
-.js #u198-4.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-}
-
 #u1435-bw
 {
 	z-index: 2;
@@ -3763,10 +3771,10 @@
 	border-style: none;
 	background-color: transparent;
 	color: #000000;
+	line-height: 14px;
 	text-align: center;
 	letter-spacing: 2px;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	margin-left: 20px;
