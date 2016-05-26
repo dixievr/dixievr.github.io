@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1464256179243">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1464256374430">
   <folder name="css">
-    <file name="site_global.css" crc="3902197637"/>
-    <file name="index.css" crc="178787177" ref="index"/>
+    <file name="site_global.css" crc="4190117140"/>
+    <file name="index.css" crc="4242797598" ref="index"/>
     <file name="iefonts_index.css" crc="358184495" ref="index"/>
   </folder>
   <folder name="assets">
@@ -232,5 +232,5 @@
     <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="3976435102" ref="index"/>
   </folder>
-  <file name="index.html" crc="3827416399" seo="true" mt="1464256168674" redirect="true"/>
+  <file name="index.html" crc="374593654" seo="true" mt="1464256361374" redirect="true"/>
 </manifest>

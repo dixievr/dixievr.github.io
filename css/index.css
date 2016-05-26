@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #A81369;
+	color: #0000FC;
+	background-color: #E3F41E;
 }
 
 #page
@@ -471,7 +471,7 @@
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	left: 120px;
-	margin-top: 66px;
+	margin-top: 56px;
 	position: relative;
 }
 
@@ -483,7 +483,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 135px;
-	margin-top: 22px;
+	margin-top: 32px;
 	position: relative;
 }
 
@@ -1321,8 +1321,8 @@
 	width: 832px;
 	min-height: 121px;
 	background-color: transparent;
-	color: #474747;
 	font-size: 17px;
+	color: #474747;
 	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
@@ -1363,9 +1363,9 @@
 	width: 246px;
 	min-height: 64px;
 	background-color: transparent;
-	color: #323232;
 	font-size: 17px;
 	text-transform: none;
+	color: #323232;
 	text-align: center;
 	line-height: 29px;
 	font-family: dosis, sans-serif;
@@ -4892,9 +4892,9 @@
 	min-height: 22px;
 	border-width: 0px;
 	background-color: transparent;
-	color: #000000;
 	font-size: 12px;
 	letter-spacing: 2px;
+	color: #000000;
 	text-align: center;
 	line-height: 14px;
 	font-family: dosis, sans-serif;
