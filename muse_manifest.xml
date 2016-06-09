@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1465475639133">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1465508179655">
   <folder name="css">
     <file name="site_global.css" crc="3902197637"/>
-    <file name="index.css" crc="4039717168" ref="index"/>
+    <file name="index.css" crc="4229422366" ref="index"/>
     <file name="iefonts_index.css" crc="358184495" ref="index"/>
   </folder>
   <folder name="assets">
@@ -86,39 +86,12 @@
     <file name="004-ieu544-fr2.png" crc="3876669870" ref="index"/>
     <file name="004_2x.jpg" crc="369699390" ref="index"/>
     <file name="capt_0002_07.jpg" crc="4011399178" ref="index"/>
-    <file name="maths (1)-u1778-fr.png" crc="3802416473" ref="index"/>
-    <file name="maths (1)-u1778-fr_2x.png" crc="316406578" ref="index"/>
-    <file name="maths (1)-u1778-r-fr.jpg" crc="44773021" ref="index"/>
-    <file name="maths (1)-u1778-r-fr_2x.jpg" crc="3823598652" ref="index"/>
-    <file name="maths (4)-u1780-fr.png" crc="507595649" ref="index"/>
-    <file name="maths (4)-u1780-fr_2x.png" crc="4098896191" ref="index"/>
-    <file name="maths (4)-u1780-r-fr.jpg" crc="378385630" ref="index"/>
-    <file name="maths (4)-u1780-r-fr_2x.jpg" crc="6230747" ref="index"/>
     <file name="maths (9)-u1782-fr.png" crc="349661092" ref="index"/>
     <file name="maths (9)-u1782-fr_2x.png" crc="3988814786" ref="index"/>
     <file name="maths (9)-u1782-r-fr.jpg" crc="3863878541" ref="index"/>
     <file name="maths (9)-u1782-r-fr_2x.jpg" crc="254460468" ref="index"/>
-    <file name="porto (4)-u1784-fr.png" crc="4160635468" ref="index"/>
-    <file name="porto (4)-u1784-fr_2x.png" crc="3960295931" ref="index"/>
-    <file name="porto (4)-u1784-r-fr.jpg" crc="470960832" ref="index"/>
-    <file name="porto (4)-u1784-r-fr_2x.jpg" crc="456246099" ref="index"/>
-    <file name="tw02-u1786-fr.png" crc="4122538240" ref="index"/>
-    <file name="tw02-u1786-fr_2x.png" crc="177604606" ref="index"/>
-    <file name="tw02-u1786-r-fr.jpg" crc="347010514" ref="index"/>
-    <file name="tw02-u1786-r-fr_2x.jpg" crc="3966713452" ref="index"/>
-    <file name="tw03-u1788-fr.png" crc="4085118990" ref="index"/>
-    <file name="tw03-u1788-fr_2x.png" crc="519953406" ref="index"/>
-    <file name="tw03-u1788-r-fr.jpg" crc="283684401" ref="index"/>
-    <file name="tw03-u1788-r-fr_2x.jpg" crc="34762261" ref="index"/>
-    <file name="maths (1).jpg" crc="4206490298" ref="index"/>
-    <file name="maths (1)_2x.jpg" crc="4236042929" ref="index"/>
-    <file name="maths (4).jpg" crc="276184189" ref="index"/>
-    <file name="maths (4)_2x.jpg" crc="4147520930" ref="index"/>
     <file name="maths (9).jpg" crc="4065552895" ref="index"/>
     <file name="maths (9)_2x.jpg" crc="4174012033" ref="index"/>
-    <file name="porto (4).jpg" crc="384719301" ref="index"/>
-    <file name="tw02.jpg" crc="31212751" ref="index"/>
-    <file name="tw03.jpg" crc="383948038" ref="index"/>
     <file name="041-u326-fr.jpg" crc="464001797" ref="index"/>
     <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
     <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
@@ -257,6 +230,36 @@
     <file name="screenshot182829_2x.jpg" crc="472476291" ref="index"/>
     <file name="screenshot433317.jpg" crc="4189603029" ref="index"/>
     <file name="screenshot433317_2x.jpg" crc="4099991901" ref="index"/>
+    <file name="screenshot448410-u1778-fr.png" crc="508173446" ref="index"/>
+    <file name="screenshot448410-u1778-fr_2x.png" crc="310016606" ref="index"/>
+    <file name="screenshot448410-u1778-r-fr.jpg" crc="4229925569" ref="index"/>
+    <file name="screenshot448410-u1778-r-fr_2x.jpg" crc="410328162" ref="index"/>
+    <file name="screenshot428852-u1780-fr.png" crc="396866617" ref="index"/>
+    <file name="screenshot428852-u1780-fr_2x.png" crc="252324917" ref="index"/>
+    <file name="screenshot428852-u1780-r-fr.jpg" crc="230935714" ref="index"/>
+    <file name="screenshot428852-u1780-r-fr_2x.jpg" crc="183028328" ref="index"/>
+    <file name="portodom (4)-u1784-fr.png" crc="338751619" ref="index"/>
+    <file name="portodom (4)-u1784-fr_2x.png" crc="474620495" ref="index"/>
+    <file name="portodom (4)-u1784-r-fr.jpg" crc="342124511" ref="index"/>
+    <file name="portodom (4)-u1784-r-fr_2x.jpg" crc="4266673688" ref="index"/>
+    <file name="portodom (5)-u1786-fr.png" crc="513020248" ref="index"/>
+    <file name="portodom (5)-u1786-fr_2x.png" crc="4286709617" ref="index"/>
+    <file name="portodom (5)-u1786-r-fr.jpg" crc="4040625564" ref="index"/>
+    <file name="portodom (5)-u1786-r-fr_2x.jpg" crc="397090588" ref="index"/>
+    <file name="portodom (7)-u1788-fr.png" crc="4162327246" ref="index"/>
+    <file name="portodom (7)-u1788-fr_2x.png" crc="4060930152" ref="index"/>
+    <file name="portodom (7)-u1788-r-fr.jpg" crc="34790385" ref="index"/>
+    <file name="portodom (7)-u1788-r-fr_2x.jpg" crc="3967785662" ref="index"/>
+    <file name="screenshot448410.jpg" crc="3796959145" ref="index"/>
+    <file name="screenshot448410_2x.jpg" crc="4076907413" ref="index"/>
+    <file name="screenshot428852.jpg" crc="3891855544" ref="index"/>
+    <file name="screenshot428852_2x.jpg" crc="504532575" ref="index"/>
+    <file name="portodom (4).jpg" crc="191422838" ref="index"/>
+    <file name="portodom (4)_2x.jpg" crc="3969591643" ref="index"/>
+    <file name="portodom (5).jpg" crc="227141467" ref="index"/>
+    <file name="portodom (5)_2x.jpg" crc="3895700203" ref="index"/>
+    <file name="portodom (7).jpg" crc="413587696" ref="index"/>
+    <file name="portodom (7)_2x.jpg" crc="4056481260" ref="index"/>
   </folder>
-  <file name="index.html" crc="138285005" seo="true" mt="1465475541115" redirect="true"/>
+  <file name="index.html" crc="526609285" seo="true" mt="1465508169184" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #C93130;
+	color: #0000FC;
+	background-color: #17DD1E;
 }
 
 #page
@@ -369,6 +369,12 @@
 	background-size: contain;
 }
 
+#u1093.on
+{
+	background: transparent url("../images/on-u1093-on-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
 #u1093.unavailable
 {
 	background: transparent url("../images/unavailable.png") no-repeat center center;
@@ -385,9 +391,13 @@
 	background-size: contain;
 }
 
-#u1093.on
+#u1093.off:active
 {
-	background: transparent url("../images/on-u1093-on-fr.png") no-repeat center center;
+	width: 64px;
+	height: 65px;
+	min-height: 0px;
+	margin: 228px -10000px 0px 0px;
+	background: transparent url("../images/off_mousedown.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -398,16 +408,6 @@
 	min-height: 0px;
 	margin: 228px -10000px 0px 0px;
 	background: transparent url("../images/on_rollover-u1093-on-r-fr.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u1093.off:active
-{
-	width: 64px;
-	height: 65px;
-	min-height: 0px;
-	margin: 228px -10000px 0px 0px;
-	background: transparent url("../images/off_mousedown.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -463,11 +463,11 @@
 	min-height: 14px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 12px;
 	font-size: 10px;
 	letter-spacing: 10px;
 	text-transform: uppercase;
 	text-align: center;
-	line-height: 12px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	left: 120px;
@@ -543,8 +543,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -639,8 +639,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -735,8 +735,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -831,8 +831,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -927,8 +927,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1023,8 +1023,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 29px;
 	color: #FFFFFF;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1183,8 +1183,8 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	text-transform: uppercase;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1321,9 +1321,9 @@
 	width: 832px;
 	min-height: 121px;
 	background-color: transparent;
+	line-height: 29px;
 	font-size: 17px;
 	color: #474747;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-left: 95px;
@@ -1363,11 +1363,11 @@
 	width: 246px;
 	min-height: 64px;
 	background-color: transparent;
+	line-height: 29px;
 	font-size: 17px;
 	text-transform: none;
 	color: #323232;
 	text-align: center;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -1457,8 +1457,8 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	text-transform: uppercase;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1560,8 +1560,8 @@
 	width: 545px;
 	min-height: 65px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1602,8 +1602,8 @@
 	width: 545px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1626,8 +1626,8 @@
 	width: 275px;
 	min-height: 95px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: right;
 	font-family: dosis, sans-serif;
@@ -1643,8 +1643,8 @@
 	width: 257px;
 	min-height: 95px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: left;
 	font-family: dosis, sans-serif;
@@ -1773,8 +1773,8 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	text-transform: uppercase;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1899,11 +1899,11 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 24px;
@@ -1916,8 +1916,8 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -1961,11 +1961,11 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 23px;
@@ -1978,8 +1978,8 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -2025,11 +2025,11 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 22px;
@@ -2042,8 +2042,8 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -2089,11 +2089,11 @@
 	width: 225px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 24px;
@@ -2106,8 +2106,8 @@
 	width: 225px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -2194,8 +2194,8 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	text-transform: uppercase;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -3467,7 +3467,7 @@
 	border-color: #DEDEDE;
 	top: 50px;
 	left: 560px;
-	background: #EEEEEE url("../images/maths%20(1)-u1778-fr.png") no-repeat center center;
+	background: #EEEEEE url("../images/screenshot448410-u1778-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.5);
 	background-size: cover;
 }
@@ -3479,7 +3479,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/maths%20(1)-u1778-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/screenshot448410-u1778-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -3491,19 +3491,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/maths%20(1)-u1778-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/screenshot448410-u1778-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
 .hidpi #u1778
 {
-	background-image: url("../images/maths%20(1)-u1778-fr_2x.png");
+	background-image: url("../images/screenshot448410-u1778-fr_2x.png");
 }
 
 .hidpi #u1778:hover,.hidpi #u1778.PamphletThumbSelected
 {
-	background-image: url("../images/maths%20(1)-u1778-r-fr_2x.jpg");
+	background-image: url("../images/screenshot448410-u1778-r-fr_2x.jpg");
 }
 
 #u1780
@@ -3516,7 +3516,7 @@
 	border-color: #DEDEDE;
 	top: 50px;
 	left: 630px;
-	background: #EEEEEE url("../images/maths%20(4)-u1780-fr.png") no-repeat center center;
+	background: #EEEEEE url("../images/screenshot428852-u1780-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.5);
 	background-size: cover;
 }
@@ -3528,7 +3528,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/maths%20(4)-u1780-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/screenshot428852-u1780-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -3540,19 +3540,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/maths%20(4)-u1780-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/screenshot428852-u1780-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
 .hidpi #u1780
 {
-	background-image: url("../images/maths%20(4)-u1780-fr_2x.png");
+	background-image: url("../images/screenshot428852-u1780-fr_2x.png");
 }
 
 .hidpi #u1780:hover,.hidpi #u1780.PamphletThumbSelected
 {
-	background-image: url("../images/maths%20(4)-u1780-r-fr_2x.jpg");
+	background-image: url("../images/screenshot428852-u1780-r-fr_2x.jpg");
 }
 
 #u1782
@@ -3614,7 +3614,7 @@
 	border-color: #DEDEDE;
 	top: 50px;
 	left: 770px;
-	background: #EEEEEE url("../images/porto%20(4)-u1784-fr.png") no-repeat center center;
+	background: #EEEEEE url("../images/portodom%20(4)-u1784-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.5);
 	background-size: cover;
 }
@@ -3626,7 +3626,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/porto%20(4)-u1784-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(4)-u1784-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -3638,19 +3638,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/porto%20(4)-u1784-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(4)-u1784-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
 .hidpi #u1784
 {
-	background-image: url("../images/porto%20(4)-u1784-fr_2x.png");
+	background-image: url("../images/portodom%20(4)-u1784-fr_2x.png");
 }
 
 .hidpi #u1784:hover,.hidpi #u1784.PamphletThumbSelected
 {
-	background-image: url("../images/porto%20(4)-u1784-r-fr_2x.jpg");
+	background-image: url("../images/portodom%20(4)-u1784-r-fr_2x.jpg");
 }
 
 #u1786
@@ -3663,7 +3663,7 @@
 	border-color: #DEDEDE;
 	top: 50px;
 	left: 840px;
-	background: #EEEEEE url("../images/tw02-u1786-fr.png") no-repeat center center;
+	background: #EEEEEE url("../images/portodom%20(5)-u1786-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.5);
 	background-size: cover;
 }
@@ -3675,7 +3675,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/tw02-u1786-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(5)-u1786-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -3687,19 +3687,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/tw02-u1786-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(5)-u1786-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
 .hidpi #u1786
 {
-	background-image: url("../images/tw02-u1786-fr_2x.png");
+	background-image: url("../images/portodom%20(5)-u1786-fr_2x.png");
 }
 
 .hidpi #u1786:hover,.hidpi #u1786.PamphletThumbSelected
 {
-	background-image: url("../images/tw02-u1786-r-fr_2x.jpg");
+	background-image: url("../images/portodom%20(5)-u1786-r-fr_2x.jpg");
 }
 
 #u1788
@@ -3712,7 +3712,7 @@
 	border-color: #DEDEDE;
 	top: 50px;
 	left: 910px;
-	background: #EEEEEE url("../images/tw03-u1788-fr.png") no-repeat center center;
+	background: #EEEEEE url("../images/portodom%20(7)-u1788-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.5);
 	background-size: cover;
 }
@@ -3724,7 +3724,7 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/tw03-u1788-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(7)-u1788-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
@@ -3736,19 +3736,19 @@
 	height: 44px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/tw03-u1788-r-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(7)-u1788-r-fr.jpg") no-repeat center center;
 	background-color: rgba(222,222,222,1);
 	background-size: cover;
 }
 
 .hidpi #u1788
 {
-	background-image: url("../images/tw03-u1788-fr_2x.png");
+	background-image: url("../images/portodom%20(7)-u1788-fr_2x.png");
 }
 
 .hidpi #u1788:hover,.hidpi #u1788.PamphletThumbSelected
 {
-	background-image: url("../images/tw03-u1788-r-fr_2x.jpg");
+	background-image: url("../images/portodom%20(7)-u1788-r-fr_2x.jpg");
 }
 
 #u973
@@ -4187,13 +4187,13 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/maths%20(1).jpg") no-repeat center center;
+	background: #DEDEDE url("../images/screenshot448410.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u1779
 {
-	background-image: url("../images/maths%20(1)_2x.jpg");
+	background-image: url("../images/screenshot448410_2x.jpg");
 }
 
 #u1781
@@ -4206,13 +4206,13 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/maths%20(4).jpg") no-repeat center center;
+	background: #DEDEDE url("../images/screenshot428852.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u1781
 {
-	background-image: url("../images/maths%20(4)_2x.jpg");
+	background-image: url("../images/screenshot428852_2x.jpg");
 }
 
 #u1783
@@ -4244,8 +4244,13 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/porto%20(4).jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(4).jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u1785
+{
+	background-image: url("../images/portodom%20(4)_2x.jpg");
 }
 
 #u1787
@@ -4258,8 +4263,13 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/tw02.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(5).jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u1787
+{
+	background-image: url("../images/portodom%20(5)_2x.jpg");
 }
 
 #u1789
@@ -4272,8 +4282,13 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/tw03.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/portodom%20(7).jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u1789
+{
+	background-image: url("../images/portodom%20(7)_2x.jpg");
 }
 
 .MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
@@ -4353,8 +4368,8 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	text-transform: uppercase;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -4477,11 +4492,11 @@
 	width: 320px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 29px;
@@ -4494,9 +4509,9 @@
 	width: 320px;
 	min-height: 225px;
 	background-color: transparent;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 11px;
@@ -4533,11 +4548,11 @@
 	width: 285px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 29px;
@@ -4550,8 +4565,8 @@
 	width: 285px;
 	min-height: 225px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -4595,11 +4610,11 @@
 	width: 320px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FF00AE;
-	font-size: 20px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 34px;
+	font-size: 20px;
+	color: #FF00AE;
+	text-align: center;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 29px;
@@ -4612,9 +4627,9 @@
 	width: 320px;
 	min-height: 225px;
 	background-color: transparent;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
-	line-height: 29px;
 	font-family: dosis, sans-serif;
 	font-weight: 400;
 	margin-top: 12px;
@@ -4716,8 +4731,8 @@
 	width: 980px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 43px;
 	text-transform: uppercase;
+	line-height: 43px;
 	font-size: 36px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -4826,8 +4841,8 @@
 	width: 858px;
 	min-height: 93px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #474747;
+	line-height: 29px;
 	font-size: 17px;
 	text-align: center;
 	font-family: dosis, sans-serif;
@@ -4850,11 +4865,11 @@
 	background-color: #FF7FD6;
 	background-color: rgba(255,0,174,0.5);
 	padding-top: 11px;
-	color: #FFFFFF;
-	font-size: 18px;
 	text-transform: uppercase;
-	text-align: center;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
+	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
 	left: 485px;
@@ -5017,11 +5032,11 @@
 	min-height: 22px;
 	border-width: 0px;
 	background-color: transparent;
+	line-height: 14px;
 	font-size: 12px;
 	letter-spacing: 2px;
 	color: #000000;
 	text-align: center;
-	line-height: 14px;
 	font-family: dosis, sans-serif;
 	font-weight: 200;
 	margin-left: 20px;
