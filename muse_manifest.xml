@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.com" resolutions="1x,2x" timestamp="1480374535622">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.com" resolutions="1x,2x" timestamp="1480374799725">
   <folder name="css">
     <file name="site_global.css" crc="34444172"/>
-    <file name="index.css" crc="53492229" ref="index"/>
-    <file name="iefonts_index.css" crc="515408172" ref="index"/>
+    <file name="index.css" crc="34523682" ref="index"/>
+    <file name="iefonts_index.css" crc="316533572" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="dix_library_beta1.zip" crc="4141695960" seo="true" mt="1464256180000"/>
@@ -263,5 +263,5 @@
     <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="4257838828" ref="index"/>
   </folder>
-  <file name="index.html" crc="517935247" seo="true" mt="1480374313187" redirect="true"/>
+  <file name="index.html" crc="4276325422" seo="true" mt="1480374766094" redirect="true"/>
 </manifest>
