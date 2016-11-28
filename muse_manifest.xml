@@ -1,265 +1,267 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1465508179655">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.com" resolutions="1x,2x" timestamp="1480374535622">
   <folder name="css">
-    <file name="site_global.css" crc="3902197637"/>
-    <file name="index.css" crc="4229422366" ref="index"/>
-    <file name="iefonts_index.css" crc="358184495" ref="index"/>
+    <file name="site_global.css" crc="34444172"/>
+    <file name="index.css" crc="53492229" ref="index"/>
+    <file name="iefonts_index.css" crc="515408172" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="dix_library_beta1.zip" crc="4141695960" seo="true" mt="1464256180000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="webpro.js" crc="329496574" ref="index"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
-    <file name="touchswipe.js" crc="497316881" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
   </folder>
   <folder name="images">
     <file name="dixievr-favicon.ico" crc="3850738057" ref="index"/>
-    <file name="capt_0006_03_aa-u362-fr.png" crc="71044086" ref="index"/>
-    <file name="email white.png" crc="3969897413" seo="true" ref="index"/>
+    <file name="capt_0006_03_aa-u362-fr.png" crc="445660238" ref="index"/>
+    <file name="email white.png" crc="474335320" seo="true" ref="index"/>
     <file name="email white_2x.png" crc="4121906989" seo="true" ref="index"/>
-    <file name="facebook white.png" crc="3915872431" seo="true" ref="index"/>
+    <file name="facebook white.png" crc="4068801086" seo="true" ref="index"/>
     <file name="facebook white_2x.png" crc="4256602744" seo="true" ref="index"/>
-    <file name="linkedin white.png" crc="411158826" seo="true" ref="index"/>
+    <file name="linkedin white.png" crc="3837202546" seo="true" ref="index"/>
     <file name="linkedin white_2x.png" crc="294042000" seo="true" ref="index"/>
     <file name="vimeo-xxl.png" crc="180125723" seo="true" ref="index"/>
     <file name="vimeo-xxl_2x.png" crc="368317541" seo="true" ref="index"/>
-    <file name="github.png" crc="3939912562" seo="true" ref="index"/>
+    <file name="github.png" crc="3999248790" seo="true" ref="index"/>
     <file name="github_2x.png" crc="3821568301" seo="true" ref="index"/>
-    <file name="logov4title 2.png" crc="4071444545" seo="true" ref="index"/>
+    <file name="logov4title 2.png" crc="4080720978" seo="true" ref="index"/>
     <file name="logov4title 2_2x.png" crc="215098557" seo="true" ref="index"/>
-    <file name="off.png" crc="4137614313" ref="index"/>
+    <file name="off.png" crc="3892761880" ref="index"/>
     <file name="off_2x.png" crc="110711512" ref="index"/>
-    <file name="unavailable.png" crc="4136258698" ref="index"/>
+    <file name="unavailable.png" crc="4091744747" ref="index"/>
     <file name="unavailable_2x.png" crc="4264099715" ref="index"/>
-    <file name="off_rollover.png" crc="125515327" ref="index"/>
+    <file name="off_rollover.png" crc="422329228" ref="index"/>
     <file name="off_rollover_2x.png" crc="4094218968" ref="index"/>
-    <file name="off_mousedown.png" crc="4137614313" ref="index"/>
+    <file name="off_mousedown.png" crc="3892761880" ref="index"/>
     <file name="off_mousedown_2x.png" crc="110711512" ref="index"/>
-    <file name="on-u1093-on-fr.png" crc="4240592867" ref="index"/>
-    <file name="on-u1093-on-fr_2x.png" crc="4184688182" ref="index"/>
-    <file name="on_rollover-u1093-on-r-fr.png" crc="4172055051" ref="index"/>
-    <file name="on_rollover-u1093-on-r-fr_2x.png" crc="148326407" ref="index"/>
-    <file name="on_mousedown-u1093-on-m-fr.png" crc="4240592867" ref="index"/>
-    <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4184688182" ref="index"/>
-    <file name="u1182.png" crc="3790003747" ref="index"/>
-    <file name="u1182-r.png" crc="421909847" ref="index"/>
-    <file name="u1182-m.png" crc="3803192657" ref="index"/>
-    <file name="u1182_2x.png" crc="225155408" ref="index"/>
-    <file name="u1182-r_2x.png" crc="3779304589" ref="index"/>
-    <file name="u1182-m_2x.png" crc="43800046" ref="index"/>
-    <file name="002-u534-fr.jpg" crc="3765058841" ref="index"/>
-    <file name="logo-dk-ensapm-hd-04-black-03-500x347.png" crc="3967039062" seo="true" ref="index"/>
+    <file name="on-u1093-on-fr.png" crc="4100725981" ref="index"/>
+    <file name="on-u1093-on-fr_2x.png" crc="368103618" ref="index"/>
+    <file name="on_rollover-u1093-on-r-fr.png" crc="3906446760" ref="index"/>
+    <file name="on_rollover-u1093-on-r-fr_2x.png" crc="4103558759" ref="index"/>
+    <file name="on_mousedown-u1093-on-m-fr.png" crc="4100725981" ref="index"/>
+    <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="368103618" ref="index"/>
+    <file name="u1182.png" crc="322517701" ref="index"/>
+    <file name="u1182_2x.png" crc="4283531908" ref="index"/>
+    <file name="u1182-r.png" crc="225509931" ref="index"/>
+    <file name="u1182-r_2x.png" crc="3833199787" ref="index"/>
+    <file name="u1182-m.png" crc="3776138051" ref="index"/>
+    <file name="u1182-m_2x.png" crc="352437542" ref="index"/>
+    <file name="002-u534-fr.jpg" crc="4050472361" ref="index"/>
+    <file name="logo-dk-ensapm-hd-04-black-03-500x347.png" crc="533604020" seo="true" ref="index"/>
     <file name="logo-dk-ensapm-hd-04-black-03-500x347_2x.png" crc="4184255340" seo="true" ref="index"/>
     <file name="1290004351-10.gif" crc="266233590" seo="true" ref="index"/>
     <file name="1290004351-10_2x.gif" crc="266233590" seo="true" ref="index"/>
     <file name="err copy.jpg" crc="3855825616" ref="index"/>
-    <file name="logov2 3.png" crc="3836972214" seo="true" ref="index"/>
+    <file name="logov2 3.png" crc="511577978" seo="true" ref="index"/>
     <file name="logov2 3_2x.png" crc="3855880348" seo="true" ref="index"/>
-    <file name="exchanges.jpg" crc="50609648" seo="true" ref="index"/>
+    <file name="exchanges.jpg" crc="3969602100" seo="true" ref="index"/>
     <file name="exchanges_2x.jpg" crc="4284206455" seo="true" ref="index"/>
-    <file name="logogh.png" crc="289083502" seo="true" ref="index"/>
+    <file name="logogh.png" crc="3863261085" seo="true" ref="index"/>
     <file name="logogh_2x.png" crc="355121904" seo="true" ref="index"/>
-    <file name="logoapk.png" crc="14094815" seo="true" ref="index"/>
+    <file name="logoapk.png" crc="3968003514" seo="true" ref="index"/>
     <file name="logoapk_2x.png" crc="105140503" seo="true" ref="index"/>
-    <file name="001-ieu553-fr.png" crc="152965476" ref="index"/>
-    <file name="001.jpg" crc="4029095569" ref="index"/>
-    <file name="001-ieu553-fr2.png" crc="39001011" ref="index"/>
+    <file name="001-ieu553-fr.png" crc="3943240434" ref="index"/>
+    <file name="001.jpg" crc="129841660" ref="index"/>
+    <file name="001-ieu553-fr2.png" crc="12747413" ref="index"/>
     <file name="001_2x.jpg" crc="105919126" ref="index"/>
-    <file name="002.jpg" crc="3989645001" ref="index"/>
+    <file name="002.jpg" crc="511049901" ref="index"/>
     <file name="002_2x.jpg" crc="3798779530" ref="index"/>
-    <file name="003-ieu569-fr.png" crc="419666335" ref="index"/>
-    <file name="003.jpg" crc="409202697" ref="index"/>
-    <file name="003-ieu569-fr2.png" crc="4072755989" ref="index"/>
+    <file name="003-ieu569-fr.png" crc="4108785713" ref="index"/>
+    <file name="003.jpg" crc="150558921" ref="index"/>
+    <file name="003-ieu569-fr2.png" crc="3916045246" ref="index"/>
     <file name="003_2x.jpg" crc="109472917" ref="index"/>
-    <file name="004-ieu544-fr.png" crc="10555231" ref="index"/>
-    <file name="004.jpg" crc="4092524588" ref="index"/>
-    <file name="004-ieu544-fr2.png" crc="3876669870" ref="index"/>
+    <file name="004-ieu544-fr.png" crc="282199468" ref="index"/>
+    <file name="004.jpg" crc="3836465023" ref="index"/>
+    <file name="004-ieu544-fr2.png" crc="217359532" ref="index"/>
     <file name="004_2x.jpg" crc="369699390" ref="index"/>
     <file name="capt_0002_07.jpg" crc="4011399178" ref="index"/>
-    <file name="maths (9)-u1782-fr.png" crc="349661092" ref="index"/>
-    <file name="maths (9)-u1782-fr_2x.png" crc="3988814786" ref="index"/>
-    <file name="maths (9)-u1782-r-fr.jpg" crc="3863878541" ref="index"/>
-    <file name="maths (9)-u1782-r-fr_2x.jpg" crc="254460468" ref="index"/>
-    <file name="maths (9).jpg" crc="4065552895" ref="index"/>
-    <file name="maths (9)_2x.jpg" crc="4174012033" ref="index"/>
-    <file name="041-u326-fr.jpg" crc="464001797" ref="index"/>
-    <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
-    <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="499179068" ref="index"/>
-    <file name="102_4643fb 2-u322-fr.jpg" crc="4065388978" ref="index"/>
-    <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
-    <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
-    <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="3976435102" ref="index"/>
-    <file name="screenshot460851-u1774-fr.png" crc="106481885" ref="index"/>
-    <file name="screenshot460851-u1774-fr_2x.png" crc="4086394112" ref="index"/>
-    <file name="screenshot460851-u1774-r-fr.jpg" crc="313668322" ref="index"/>
-    <file name="screenshot460851-u1774-r-fr_2x.jpg" crc="450757978" ref="index"/>
-    <file name="screenshot12925.jpg" crc="3969484728" ref="index"/>
-    <file name="screenshot12925_2x.jpg" crc="162662286" ref="index"/>
-    <file name="screenshot334694.jpg" crc="332601914" ref="index"/>
-    <file name="screenshot334694_2x.jpg" crc="296628770" ref="index"/>
-    <file name="screenshot86674.jpg" crc="4239532816" ref="index"/>
-    <file name="screenshot86674_2x.jpg" crc="455311398" ref="index"/>
-    <file name="screenshot7374.jpg" crc="4159012087" ref="index"/>
-    <file name="screenshot7374_2x.jpg" crc="4234274060" ref="index"/>
-    <file name="screenshot460851.jpg" crc="291203597" ref="index"/>
-    <file name="screenshot460851_2x.jpg" crc="196087940" ref="index"/>
-    <file name="screenshot14993-u971-fr.png" crc="290921000" ref="index"/>
-    <file name="screenshot14993-u971-fr_2x.png" crc="124029891" ref="index"/>
-    <file name="screenshot14993-u971-r-fr.jpg" crc="344125172" ref="index"/>
-    <file name="screenshot14993-u971-r-fr_2x.jpg" crc="228529236" ref="index"/>
-    <file name="screenshot8637-u1474-fr.png" crc="186879919" ref="index"/>
-    <file name="screenshot8637-u1474-fr_2x.png" crc="156603139" ref="index"/>
-    <file name="screenshot8637-u1474-r-fr.jpg" crc="3954697920" ref="index"/>
-    <file name="screenshot8637-u1474-r-fr_2x.jpg" crc="3883056493" ref="index"/>
-    <file name="screenshot11337-u1482-fr.png" crc="4266362802" ref="index"/>
-    <file name="screenshot11337-u1482-fr_2x.png" crc="4222555515" ref="index"/>
-    <file name="screenshot11337-u1482-r-fr.jpg" crc="4027289798" ref="index"/>
-    <file name="screenshot11337-u1482-r-fr_2x.jpg" crc="3897457691" ref="index"/>
-    <file name="screenshot158386-u1490-fr.png" crc="491425911" ref="index"/>
-    <file name="screenshot158386-u1490-fr_2x.png" crc="4183732661" ref="index"/>
-    <file name="screenshot158386-u1490-r-fr.jpg" crc="4019709199" ref="index"/>
-    <file name="screenshot158386-u1490-r-fr_2x.jpg" crc="447399533" ref="index"/>
-    <file name="screenshot147046-u1498-fr.png" crc="448894294" ref="index"/>
-    <file name="screenshot147046-u1498-fr_2x.png" crc="4027976636" ref="index"/>
-    <file name="screenshot147046-u1498-r-fr.jpg" crc="4125733501" ref="index"/>
-    <file name="screenshot147046-u1498-r-fr_2x.jpg" crc="3772593894" ref="index"/>
-    <file name="screenshot28466-u1506-fr.png" crc="4132209912" ref="index"/>
-    <file name="screenshot28466-u1506-fr_2x.png" crc="4262357683" ref="index"/>
-    <file name="screenshot28466-u1506-r-fr.jpg" crc="3770875370" ref="index"/>
-    <file name="screenshot28466-u1506-r-fr_2x.jpg" crc="113901237" ref="index"/>
-    <file name="screenshot21470-u1514-fr.png" crc="3823828703" ref="index"/>
-    <file name="screenshot21470-u1514-fr_2x.png" crc="4286916655" ref="index"/>
-    <file name="screenshot21470-u1514-r-fr.jpg" crc="344890347" ref="index"/>
-    <file name="screenshot21470-u1514-r-fr_2x.jpg" crc="408067385" ref="index"/>
-    <file name="screenshot26504-u1522-fr.png" crc="374706319" ref="index"/>
-    <file name="screenshot26504-u1522-fr_2x.png" crc="456779123" ref="index"/>
-    <file name="screenshot26504-u1522-r-fr.jpg" crc="4079331598" ref="index"/>
-    <file name="screenshot26504-u1522-r-fr_2x.jpg" crc="3810635742" ref="index"/>
-    <file name="screenshot7374-u1530-fr.png" crc="4182917986" ref="index"/>
-    <file name="screenshot7374-u1530-fr_2x.png" crc="3891273271" ref="index"/>
-    <file name="screenshot7374-u1530-r-fr.jpg" crc="47665829" ref="index"/>
-    <file name="screenshot7374-u1530-r-fr_2x.jpg" crc="162889362" ref="index"/>
-    <file name="screenshot4720-u1538-fr.png" crc="509540544" ref="index"/>
-    <file name="screenshot4720-u1538-fr_2x.png" crc="102538205" ref="index"/>
-    <file name="screenshot4720-u1538-r-fr.jpg" crc="3869874767" ref="index"/>
-    <file name="screenshot4720-u1538-r-fr_2x.jpg" crc="4292921041" ref="index"/>
-    <file name="2016-05-29 (4)-u1546-fr.png" crc="128045440" ref="index"/>
-    <file name="2016-05-29 (4)-u1546-fr_2x.png" crc="69383565" ref="index"/>
-    <file name="2016-05-29 (4)-u1546-r-fr.jpg" crc="3947221290" ref="index"/>
-    <file name="2016-05-29 (4)-u1546-r-fr_2x.jpg" crc="331145502" ref="index"/>
-    <file name="screenshot334694-u1548-fr.png" crc="471157742" ref="index"/>
-    <file name="screenshot334694-u1548-fr_2x.png" crc="36038504" ref="index"/>
-    <file name="screenshot334694-u1548-r-fr.jpg" crc="3948271539" ref="index"/>
-    <file name="screenshot334694-u1548-r-fr_2x.jpg" crc="469739456" ref="index"/>
-    <file name="screenshot151930-u1550-fr.png" crc="441902713" ref="index"/>
-    <file name="screenshot151930-u1550-fr_2x.png" crc="412214762" ref="index"/>
-    <file name="screenshot151930-u1550-r-fr.jpg" crc="337124602" ref="index"/>
-    <file name="screenshot151930-u1550-r-fr_2x.jpg" crc="4189209790" ref="index"/>
-    <file name="screenshot158531-u1552-fr.png" crc="121250385" ref="index"/>
-    <file name="screenshot158531-u1552-fr_2x.png" crc="4170297345" ref="index"/>
-    <file name="screenshot158531-u1552-r-fr.jpg" crc="507207726" ref="index"/>
-    <file name="screenshot158531-u1552-r-fr_2x.jpg" crc="237101837" ref="index"/>
-    <file name="screenshot5391-u1608-fr.png" crc="4109606117" ref="index"/>
-    <file name="screenshot5391-u1608-fr_2x.png" crc="4051449928" ref="index"/>
-    <file name="screenshot5391-u1608-r-fr.jpg" crc="3911986227" ref="index"/>
-    <file name="screenshot5391-u1608-r-fr_2x.jpg" crc="4107029674" ref="index"/>
-    <file name="screenshot12925-u1610-fr.png" crc="231933401" ref="index"/>
-    <file name="screenshot12925-u1610-fr_2x.png" crc="3795653154" ref="index"/>
-    <file name="screenshot12925-u1610-r-fr.jpg" crc="4008054154" ref="index"/>
-    <file name="screenshot12925-u1610-r-fr_2x.jpg" crc="257380287" ref="index"/>
-    <file name="screenshot146595-u1624-fr.png" crc="297075288" ref="index"/>
-    <file name="screenshot146595-u1624-fr_2x.png" crc="4179422176" ref="index"/>
-    <file name="screenshot146595-u1624-r-fr.jpg" crc="3768836850" ref="index"/>
-    <file name="screenshot146595-u1624-r-fr_2x.jpg" crc="3864896503" ref="index"/>
-    <file name="screenshot178373-u1626-fr.png" crc="80255569" ref="index"/>
-    <file name="screenshot178373-u1626-fr_2x.png" crc="4061371671" ref="index"/>
-    <file name="screenshot178373-u1626-r-fr.jpg" crc="3853682759" ref="index"/>
-    <file name="screenshot178373-u1626-r-fr_2x.jpg" crc="477008068" ref="index"/>
-    <file name="screenshot182829-u1770-fr.png" crc="4069867122" ref="index"/>
-    <file name="screenshot182829-u1770-fr_2x.png" crc="4265494917" ref="index"/>
-    <file name="screenshot182829-u1770-r-fr.jpg" crc="4140369026" ref="index"/>
-    <file name="screenshot182829-u1770-r-fr_2x.jpg" crc="4193516063" ref="index"/>
-    <file name="screenshot86674-u1772-fr.png" crc="181890089" ref="index"/>
-    <file name="screenshot86674-u1772-fr_2x.png" crc="415968990" ref="index"/>
-    <file name="screenshot86674-u1772-r-fr.jpg" crc="227872160" ref="index"/>
-    <file name="screenshot86674-u1772-r-fr_2x.jpg" crc="240050558" ref="index"/>
-    <file name="screenshot433317-u1776-fr.png" crc="4191891453" ref="index"/>
-    <file name="screenshot433317-u1776-fr_2x.png" crc="4260041503" ref="index"/>
-    <file name="screenshot433317-u1776-r-fr.jpg" crc="476377558" ref="index"/>
-    <file name="screenshot433317-u1776-r-fr_2x.jpg" crc="4187563459" ref="index"/>
-    <file name="screenshot14993.jpg" crc="199703380" ref="index"/>
+    <file name="screenshot14993-u971-fr.png" crc="335359710" ref="index"/>
+    <file name="screenshot14993-u971-fr_2x.png" crc="55247500" ref="index"/>
+    <file name="screenshot14993-u971-r-fr.jpg" crc="3770618823" ref="index"/>
+    <file name="screenshot14993-u971-r-fr_2x.jpg" crc="471267438" ref="index"/>
+    <file name="screenshot8637-u1474-fr.png" crc="4281046237" ref="index"/>
+    <file name="screenshot8637-u1474-fr_2x.png" crc="363910195" ref="index"/>
+    <file name="screenshot8637-u1474-r-fr.jpg" crc="4247353996" ref="index"/>
+    <file name="screenshot8637-u1474-r-fr_2x.jpg" crc="4249068121" ref="index"/>
+    <file name="screenshot11337-u1482-fr.png" crc="4130461153" ref="index"/>
+    <file name="screenshot11337-u1482-fr_2x.png" crc="3799820129" ref="index"/>
+    <file name="screenshot11337-u1482-r-fr.jpg" crc="3871825799" ref="index"/>
+    <file name="screenshot11337-u1482-r-fr_2x.jpg" crc="432588061" ref="index"/>
+    <file name="screenshot158386-u1490-fr.png" crc="49022282" ref="index"/>
+    <file name="screenshot158386-u1490-fr_2x.png" crc="3808308882" ref="index"/>
+    <file name="screenshot158386-u1490-r-fr.jpg" crc="3851487916" ref="index"/>
+    <file name="screenshot158386-u1490-r-fr_2x.jpg" crc="310653127" ref="index"/>
+    <file name="screenshot147046-u1498-fr.png" crc="167731334" ref="index"/>
+    <file name="screenshot147046-u1498-fr_2x.png" crc="129043097" ref="index"/>
+    <file name="screenshot147046-u1498-r-fr.jpg" crc="13300290" ref="index"/>
+    <file name="screenshot147046-u1498-r-fr_2x.jpg" crc="330614846" ref="index"/>
+    <file name="screenshot28466-u1506-fr.png" crc="3995354253" ref="index"/>
+    <file name="screenshot28466-u1506-fr_2x.png" crc="4241239691" ref="index"/>
+    <file name="screenshot28466-u1506-r-fr.jpg" crc="4169149250" ref="index"/>
+    <file name="screenshot28466-u1506-r-fr_2x.jpg" crc="4156573630" ref="index"/>
+    <file name="screenshot21470-u1514-fr.png" crc="4136996008" ref="index"/>
+    <file name="screenshot21470-u1514-fr_2x.png" crc="419741373" ref="index"/>
+    <file name="screenshot21470-u1514-r-fr.jpg" crc="331870271" ref="index"/>
+    <file name="screenshot21470-u1514-r-fr_2x.jpg" crc="188126877" ref="index"/>
+    <file name="screenshot26504-u1522-fr.png" crc="23461428" ref="index"/>
+    <file name="screenshot26504-u1522-fr_2x.png" crc="202366145" ref="index"/>
+    <file name="screenshot26504-u1522-r-fr.jpg" crc="3823459151" ref="index"/>
+    <file name="screenshot26504-u1522-r-fr_2x.jpg" crc="4249360884" ref="index"/>
+    <file name="screenshot7374-u1530-fr.png" crc="72533771" ref="index"/>
+    <file name="screenshot7374-u1530-fr_2x.png" crc="4143302329" ref="index"/>
+    <file name="screenshot7374-u1530-r-fr.jpg" crc="496557678" ref="index"/>
+    <file name="screenshot7374-u1530-r-fr_2x.jpg" crc="4009476834" ref="index"/>
+    <file name="screenshot4720-u1538-fr.png" crc="379031415" ref="index"/>
+    <file name="screenshot4720-u1538-fr_2x.png" crc="130517554" ref="index"/>
+    <file name="screenshot4720-u1538-r-fr.jpg" crc="169281341" ref="index"/>
+    <file name="screenshot4720-u1538-r-fr_2x.jpg" crc="510784800" ref="index"/>
+    <file name="2016-05-29 (4)-u1546-fr.png" crc="177140384" ref="index"/>
+    <file name="2016-05-29 (4)-u1546-fr_2x.png" crc="24459944" ref="index"/>
+    <file name="2016-05-29 (4)-u1546-r-fr.jpg" crc="4030734782" ref="index"/>
+    <file name="2016-05-29 (4)-u1546-r-fr_2x.jpg" crc="39278765" ref="index"/>
+    <file name="screenshot334694-u1548-fr.png" crc="453762084" ref="index"/>
+    <file name="screenshot334694-u1548-fr_2x.png" crc="392694135" ref="index"/>
+    <file name="screenshot334694-u1548-r-fr.jpg" crc="22696008" ref="index"/>
+    <file name="screenshot334694-u1548-r-fr_2x.jpg" crc="309532632" ref="index"/>
+    <file name="screenshot151930-u1550-fr.png" crc="191413792" ref="index"/>
+    <file name="screenshot151930-u1550-fr_2x.png" crc="283912504" ref="index"/>
+    <file name="screenshot151930-u1550-r-fr.jpg" crc="43508715" ref="index"/>
+    <file name="screenshot151930-u1550-r-fr_2x.jpg" crc="361972979" ref="index"/>
+    <file name="screenshot158531-u1552-fr.png" crc="4124115449" ref="index"/>
+    <file name="screenshot158531-u1552-fr_2x.png" crc="4212525343" ref="index"/>
+    <file name="screenshot158531-u1552-r-fr.jpg" crc="493307440" ref="index"/>
+    <file name="screenshot158531-u1552-r-fr_2x.jpg" crc="405134627" ref="index"/>
+    <file name="screenshot5391-u1608-fr.png" crc="4241404564" ref="index"/>
+    <file name="screenshot5391-u1608-fr_2x.png" crc="442829991" ref="index"/>
+    <file name="screenshot5391-u1608-r-fr.jpg" crc="447951550" ref="index"/>
+    <file name="screenshot5391-u1608-r-fr_2x.jpg" crc="318828583" ref="index"/>
+    <file name="screenshot12925-u1610-fr.png" crc="4012392582" ref="index"/>
+    <file name="screenshot12925-u1610-fr_2x.png" crc="114271596" ref="index"/>
+    <file name="screenshot12925-u1610-r-fr.jpg" crc="3770284048" ref="index"/>
+    <file name="screenshot12925-u1610-r-fr_2x.jpg" crc="3807811622" ref="index"/>
+    <file name="screenshot146595-u1624-fr.png" crc="281793283" ref="index"/>
+    <file name="screenshot146595-u1624-fr_2x.png" crc="4216930643" ref="index"/>
+    <file name="screenshot146595-u1624-r-fr.jpg" crc="3759268006" ref="index"/>
+    <file name="screenshot146595-u1624-r-fr_2x.jpg" crc="208298900" ref="index"/>
+    <file name="screenshot178373-u1626-fr.png" crc="1964244" ref="index"/>
+    <file name="screenshot178373-u1626-fr_2x.png" crc="3782880895" ref="index"/>
+    <file name="screenshot178373-u1626-r-fr.jpg" crc="446525589" ref="index"/>
+    <file name="screenshot178373-u1626-r-fr_2x.jpg" crc="3835665273" ref="index"/>
+    <file name="screenshot182829-u1770-fr.png" crc="223262052" ref="index"/>
+    <file name="screenshot182829-u1770-fr_2x.png" crc="4027605219" ref="index"/>
+    <file name="screenshot182829-u1770-r-fr.jpg" crc="3903700895" ref="index"/>
+    <file name="screenshot182829-u1770-r-fr_2x.jpg" crc="4036166577" ref="index"/>
+    <file name="screenshot86674-u1772-fr.png" crc="482527028" ref="index"/>
+    <file name="screenshot86674-u1772-fr_2x.png" crc="4278560177" ref="index"/>
+    <file name="screenshot86674-u1772-r-fr.jpg" crc="3937071883" ref="index"/>
+    <file name="screenshot86674-u1772-r-fr_2x.jpg" crc="4020150364" ref="index"/>
+    <file name="screenshot460851-u1774-fr.png" crc="167577476" ref="index"/>
+    <file name="screenshot460851-u1774-fr_2x.png" crc="364056977" ref="index"/>
+    <file name="screenshot460851-u1774-r-fr.jpg" crc="499526954" ref="index"/>
+    <file name="screenshot460851-u1774-r-fr_2x.jpg" crc="109443980" ref="index"/>
+    <file name="screenshot433317-u1776-fr.png" crc="207653798" ref="index"/>
+    <file name="screenshot433317-u1776-fr_2x.png" crc="81328613" ref="index"/>
+    <file name="screenshot433317-u1776-r-fr.jpg" crc="4217101265" ref="index"/>
+    <file name="screenshot433317-u1776-r-fr_2x.jpg" crc="3795810414" ref="index"/>
+    <file name="screenshot448410-u1778-fr.png" crc="3909440099" ref="index"/>
+    <file name="screenshot448410-u1778-fr_2x.png" crc="484063695" ref="index"/>
+    <file name="screenshot448410-u1778-r-fr.jpg" crc="244945470" ref="index"/>
+    <file name="screenshot448410-u1778-r-fr_2x.jpg" crc="3770663639" ref="index"/>
+    <file name="screenshot428852-u1780-fr.png" crc="444952615" ref="index"/>
+    <file name="screenshot428852-u1780-fr_2x.png" crc="536073625" ref="index"/>
+    <file name="screenshot428852-u1780-r-fr.jpg" crc="266119483" ref="index"/>
+    <file name="screenshot428852-u1780-r-fr_2x.jpg" crc="3982015760" ref="index"/>
+    <file name="maths (9)-u1782-fr.png" crc="4172152866" ref="index"/>
+    <file name="maths (9)-u1782-fr_2x.png" crc="4282176581" ref="index"/>
+    <file name="maths (9)-u1782-r-fr.jpg" crc="317611454" ref="index"/>
+    <file name="maths (9)-u1782-r-fr_2x.jpg" crc="3910990614" ref="index"/>
+    <file name="portodom (4)-u1784-fr.png" crc="3837393654" ref="index"/>
+    <file name="portodom (4)-u1784-fr_2x.png" crc="3893669844" ref="index"/>
+    <file name="portodom (4)-u1784-r-fr.jpg" crc="3884856608" ref="index"/>
+    <file name="portodom (4)-u1784-r-fr_2x.jpg" crc="3928024436" ref="index"/>
+    <file name="portodom (5)-u1786-fr.png" crc="3967713093" ref="index"/>
+    <file name="portodom (5)-u1786-fr_2x.png" crc="434574303" ref="index"/>
+    <file name="portodom (5)-u1786-r-fr.jpg" crc="53139925" ref="index"/>
+    <file name="portodom (5)-u1786-r-fr_2x.jpg" crc="4291942123" ref="index"/>
+    <file name="portodom (7)-u1788-fr.png" crc="89016088" ref="index"/>
+    <file name="portodom (7)-u1788-fr_2x.png" crc="4184768114" ref="index"/>
+    <file name="portodom (7)-u1788-r-fr.jpg" crc="417779455" ref="index"/>
+    <file name="portodom (7)-u1788-r-fr_2x.jpg" crc="3824854272" ref="index"/>
+    <file name="screenshot14993.jpg" crc="366010640" ref="index"/>
     <file name="screenshot14993_2x.jpg" crc="169535723" ref="index"/>
-    <file name="screenshot8637.jpg" crc="3854826583" ref="index"/>
+    <file name="screenshot8637.jpg" crc="270543305" ref="index"/>
     <file name="screenshot8637_2x.jpg" crc="3887624800" ref="index"/>
-    <file name="screenshot11337.jpg" crc="4032168309" ref="index"/>
+    <file name="screenshot11337.jpg" crc="4163765387" ref="index"/>
     <file name="screenshot11337_2x.jpg" crc="4066949211" ref="index"/>
-    <file name="screenshot158386.jpg" crc="51329448" ref="index"/>
+    <file name="screenshot158386.jpg" crc="14361050" ref="index"/>
     <file name="screenshot158386_2x.jpg" crc="3895853403" ref="index"/>
-    <file name="screenshot147046.jpg" crc="507395721" ref="index"/>
+    <file name="screenshot147046.jpg" crc="3914258107" ref="index"/>
     <file name="screenshot147046_2x.jpg" crc="391064370" ref="index"/>
-    <file name="screenshot28466.jpg" crc="3942392499" ref="index"/>
+    <file name="screenshot28466.jpg" crc="4142882090" ref="index"/>
     <file name="screenshot28466_2x.jpg" crc="3801269168" ref="index"/>
-    <file name="screenshot21470.jpg" crc="158263591" ref="index"/>
+    <file name="screenshot21470.jpg" crc="383245666" ref="index"/>
     <file name="screenshot21470_2x.jpg" crc="330927326" ref="index"/>
-    <file name="screenshot26504.jpg" crc="376047408" ref="index"/>
+    <file name="screenshot26504.jpg" crc="4210105094" ref="index"/>
     <file name="screenshot26504_2x.jpg" crc="3920267638" ref="index"/>
-    <file name="screenshot4720.jpg" crc="3846496598" ref="index"/>
+    <file name="screenshot7374.jpg" crc="40948891" ref="index"/>
+    <file name="screenshot7374_2x.jpg" crc="4234274060" ref="index"/>
+    <file name="screenshot4720.jpg" crc="446941398" ref="index"/>
     <file name="screenshot4720_2x.jpg" crc="522283941" ref="index"/>
     <file name="2016-05-29 (4).jpg" crc="156095972" ref="index"/>
-    <file name="screenshot151930.jpg" crc="4040526090" ref="index"/>
+    <file name="screenshot334694.jpg" crc="4257762466" ref="index"/>
+    <file name="screenshot334694_2x.jpg" crc="296628770" ref="index"/>
+    <file name="screenshot151930.jpg" crc="3947214839" ref="index"/>
     <file name="screenshot151930_2x.jpg" crc="357834168" ref="index"/>
-    <file name="screenshot158531.jpg" crc="170508826" ref="index"/>
+    <file name="screenshot158531.jpg" crc="4119976531" ref="index"/>
     <file name="screenshot158531_2x.jpg" crc="170178065" ref="index"/>
-    <file name="screenshot5391.jpg" crc="4216607446" ref="index"/>
+    <file name="screenshot5391.jpg" crc="203958794" ref="index"/>
     <file name="screenshot5391_2x.jpg" crc="366901044" ref="index"/>
-    <file name="screenshot146595.jpg" crc="3857130091" ref="index"/>
+    <file name="screenshot12925.jpg" crc="4272317172" ref="index"/>
+    <file name="screenshot12925_2x.jpg" crc="162662286" ref="index"/>
+    <file name="screenshot146595.jpg" crc="3880194294" ref="index"/>
     <file name="screenshot146595_2x.jpg" crc="411695496" ref="index"/>
-    <file name="screenshot178373.jpg" crc="247386351" ref="index"/>
+    <file name="screenshot178373.jpg" crc="471157624" ref="index"/>
     <file name="screenshot178373_2x.jpg" crc="131196347" ref="index"/>
-    <file name="screenshot182829.jpg" crc="4120303204" ref="index"/>
+    <file name="screenshot182829.jpg" crc="333602106" ref="index"/>
     <file name="screenshot182829_2x.jpg" crc="472476291" ref="index"/>
-    <file name="screenshot433317.jpg" crc="4189603029" ref="index"/>
+    <file name="screenshot86674.jpg" crc="4259146851" ref="index"/>
+    <file name="screenshot86674_2x.jpg" crc="455311398" ref="index"/>
+    <file name="screenshot460851.jpg" crc="170090703" ref="index"/>
+    <file name="screenshot460851_2x.jpg" crc="196087940" ref="index"/>
+    <file name="screenshot433317.jpg" crc="4183868212" ref="index"/>
     <file name="screenshot433317_2x.jpg" crc="4099991901" ref="index"/>
-    <file name="screenshot448410-u1778-fr.png" crc="508173446" ref="index"/>
-    <file name="screenshot448410-u1778-fr_2x.png" crc="310016606" ref="index"/>
-    <file name="screenshot448410-u1778-r-fr.jpg" crc="4229925569" ref="index"/>
-    <file name="screenshot448410-u1778-r-fr_2x.jpg" crc="410328162" ref="index"/>
-    <file name="screenshot428852-u1780-fr.png" crc="396866617" ref="index"/>
-    <file name="screenshot428852-u1780-fr_2x.png" crc="252324917" ref="index"/>
-    <file name="screenshot428852-u1780-r-fr.jpg" crc="230935714" ref="index"/>
-    <file name="screenshot428852-u1780-r-fr_2x.jpg" crc="183028328" ref="index"/>
-    <file name="portodom (4)-u1784-fr.png" crc="338751619" ref="index"/>
-    <file name="portodom (4)-u1784-fr_2x.png" crc="474620495" ref="index"/>
-    <file name="portodom (4)-u1784-r-fr.jpg" crc="342124511" ref="index"/>
-    <file name="portodom (4)-u1784-r-fr_2x.jpg" crc="4266673688" ref="index"/>
-    <file name="portodom (5)-u1786-fr.png" crc="513020248" ref="index"/>
-    <file name="portodom (5)-u1786-fr_2x.png" crc="4286709617" ref="index"/>
-    <file name="portodom (5)-u1786-r-fr.jpg" crc="4040625564" ref="index"/>
-    <file name="portodom (5)-u1786-r-fr_2x.jpg" crc="397090588" ref="index"/>
-    <file name="portodom (7)-u1788-fr.png" crc="4162327246" ref="index"/>
-    <file name="portodom (7)-u1788-fr_2x.png" crc="4060930152" ref="index"/>
-    <file name="portodom (7)-u1788-r-fr.jpg" crc="34790385" ref="index"/>
-    <file name="portodom (7)-u1788-r-fr_2x.jpg" crc="3967785662" ref="index"/>
-    <file name="screenshot448410.jpg" crc="3796959145" ref="index"/>
+    <file name="screenshot448410.jpg" crc="3869540478" ref="index"/>
     <file name="screenshot448410_2x.jpg" crc="4076907413" ref="index"/>
-    <file name="screenshot428852.jpg" crc="3891855544" ref="index"/>
+    <file name="screenshot428852.jpg" crc="3930108702" ref="index"/>
     <file name="screenshot428852_2x.jpg" crc="504532575" ref="index"/>
-    <file name="portodom (4).jpg" crc="191422838" ref="index"/>
+    <file name="maths (9).jpg" crc="167034361" ref="index"/>
+    <file name="maths (9)_2x.jpg" crc="4174012033" ref="index"/>
+    <file name="portodom (4).jpg" crc="392838895" ref="index"/>
     <file name="portodom (4)_2x.jpg" crc="3969591643" ref="index"/>
-    <file name="portodom (5).jpg" crc="227141467" ref="index"/>
+    <file name="portodom (5).jpg" crc="4021522528" ref="index"/>
     <file name="portodom (5)_2x.jpg" crc="3895700203" ref="index"/>
-    <file name="portodom (7).jpg" crc="413587696" ref="index"/>
+    <file name="portodom (7).jpg" crc="4154896628" ref="index"/>
     <file name="portodom (7)_2x.jpg" crc="4056481260" ref="index"/>
+    <file name="041-u326-fr.jpg" crc="4110745612" ref="index"/>
+    <file name="041-u326-fr_2x.jpg" crc="3859301254" ref="index"/>
+    <file name="neuromancer-film-1200x630-c-u332-fr.jpg" crc="4216214855" ref="index"/>
+    <file name="102_4643fb 2-u322-fr.jpg" crc="460621993" ref="index"/>
+    <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
+    <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
+    <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="4257838828" ref="index"/>
   </folder>
-  <file name="index.html" crc="526609285" seo="true" mt="1465508169184" redirect="true"/>
+  <file name="index.html" crc="517935247" seo="true" mt="1480374313187" redirect="true"/>
 </manifest>
