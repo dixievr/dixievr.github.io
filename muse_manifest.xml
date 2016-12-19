@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.com" resolutions="1x,2x" timestamp="1480374799725">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dixievr.com" resolutions="1x,2x" timestamp="1482159592298">
   <folder name="css">
-    <file name="site_global.css" crc="34444172"/>
-    <file name="index.css" crc="34523682" ref="index"/>
+    <file name="site_global.css" crc="4276491679"/>
+    <file name="index.css" crc="4048006501" ref="index"/>
     <file name="iefonts_index.css" crc="316533572" ref="index"/>
   </folder>
   <folder name="assets">
@@ -262,6 +262,8 @@
     <file name="102_4643fb 2-u322-fr_2x.jpg" crc="477570389" ref="index"/>
     <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="4257838828" ref="index"/>
+    <file name="logo (2) white.png" crc="4063072445" seo="true" ref="index"/>
+    <file name="logo (2) white_2x.png" crc="466332042" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4276325422" seo="true" mt="1480374766094" redirect="true"/>
+  <file name="index.html" crc="510953337" seo="true" mt="1482159569810" redirect="true"/>
 </manifest>
