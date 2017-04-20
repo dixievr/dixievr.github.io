@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1489748491870">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dixievr.github.io" resolutions="1x,2x" timestamp="1492711074979">
   <folder name="css">
-    <file name="site_global.css" crc="284033475"/>
-    <file name="index.css" crc="94497368" ref="index"/>
-    <file name="iefonts_index.css" crc="4268694510" ref="index"/>
+    <file name="site_global.css" crc="42099447"/>
+    <file name="index.css" crc="4057561546" ref="index"/>
+    <file name="iefonts_index.css" crc="397592506" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="dix_library_beta1.zip" crc="4141695960" seo="true" mt="1464256180000"/>
@@ -36,8 +36,6 @@
     <file name="vimeo-xxl_2x.png" crc="368317541" seo="true" ref="index"/>
     <file name="github.png" crc="3939912562" seo="true" ref="index"/>
     <file name="github_2x.png" crc="3821568301" seo="true" ref="index"/>
-    <file name="logo (2) white.png" crc="4174294252" seo="true" ref="index"/>
-    <file name="logo (2) white_2x.png" crc="3813550220" seo="true" ref="index"/>
     <file name="logov4title 2.png" crc="4071444545" seo="true" ref="index"/>
     <file name="logov4title 2_2x.png" crc="215098557" seo="true" ref="index"/>
     <file name="off.png" crc="4137614313" ref="index"/>
@@ -257,6 +255,8 @@
     <file name="102_4643fb 2 - copy (2)_2x.jpg" crc="4189339655" ref="index"/>
     <file name="12553001_10153885436547937_8967809637129371736_n 2bn.jpg" crc="6676397" ref="index"/>
     <file name="screenshot 2015-11-30 at 152319v2 copy-u1435-fr.png" crc="3976435102" ref="index"/>
+    <file name="logo_final_03 - white.png" crc="158836037" seo="true" ref="index"/>
+    <file name="logo_final_03 - white_2x.png" crc="3900872965" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="28401814" seo="true" mt="1489748450509" redirect="true"/>
+  <file name="index.html" crc="230622470" seo="true" mt="1492711059915" redirect="true"/>
 </manifest>
